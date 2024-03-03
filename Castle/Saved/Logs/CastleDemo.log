@@ -7656,3 +7656,682 @@ center_of_mass
 [2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE.HeadHit_UE
 [2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE.HitToBody_UE
 [2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin
+[2024.03.03-21.11.23:163][999]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.11.23:166][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.11.23:166][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.11.23:170][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.11.23:367][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.11.23:367][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.11.23:409][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.11.23:476][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.11.23:476][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.11.23:487][999]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.11.23:506][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.11.41:198][175]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.11.41:201][175]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.11.41:224][175]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.11.41:224][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.11.41:232][175]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.11.41:233][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.11.41:280][175]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.11.41:280][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.11.51:443][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.03-21.11.53:052][295]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-21.11.53:057][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.11.53:188][295]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage
+[2024.03.03-21.11.53:188][295]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE_Montage6CBF341640CDB6120A3B7F8D7C0B2D31.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.uasset'
+[2024.03.03-21.11.53:202][295]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE_Montage
+[2024.03.03-21.11.53:202][295]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigRibHit_UE_MontageEC2D310E4BB6F9614EC6A28D15715617.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE_Montage.uasset'
+[2024.03.03-21.11.53:216][295]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE_Montage
+[2024.03.03-21.11.53:216][295]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigStomachHit_UE_MontageA48CFD2240EA74ECECB8B58834214C45.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE_Montage.uasset'
+[2024.03.03-21.11.53:231][295]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE_Montage
+[2024.03.03-21.11.53:231][295]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HeadHit_UE_Montage7EC2FDCB46AA462AF4A629936626B9A6.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE_Montage.uasset'
+[2024.03.03-21.11.53:248][295]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE_Montage
+[2024.03.03-21.11.53:248][295]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HitToBody_UE_MontageBC45EB44458EEAEB93A4AD973748B1BB.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE_Montage.uasset'
+[2024.03.03-21.11.53:253][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 11.3 sec)
+[2024.03.03-21.11.53:253][295]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-21.11.53:253][295]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.11.53:253][295]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE_Montage.BigRibHit_UE_Montage
+[2024.03.03-21.11.53:253][295]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE_Montage.BigStomachHit_UE_Montage
+[2024.03.03-21.11.53:253][295]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE_Montage.HeadHit_UE_Montage
+[2024.03.03-21.11.53:253][295]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE_Montage.HitToBody_UE_Montage
+[2024.03.03-21.12.01:717][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.03-21.13.05:487][880]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.13.05:487][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.13.18:067][329]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-21.13.18:176][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.03-21.13.18:186][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:186][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:187][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:187][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:188][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:188][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:188][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:188][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:189][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:189][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_48.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.13.18:215][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:215][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:216][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:216][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:216][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:216][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.13.18:217][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.18:217][329]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_48.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.13.19:122][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-21.13.19:132][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-21.13.19:132][398]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 11:13:19 AM)
+[2024.03.03-21.13.19:132][398]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.13.19:147][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015666s)
+[2024.03.03-21.13.19:147][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.015685s)
+[2024.03.03-21.13.19:159][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.03-21.13.19:175][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.13.19:176][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.13.19:176][398]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-21.13.19:176][398]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.03.03-21.13.19:176][398]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-21.13.19:176][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-21.13.19:176][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-21.13.19:177][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-21.13.19:177][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-21.13.19:177][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-21.13.19:178][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-21.13.19:199][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-21.13.19:199][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-21.13.19:199][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-21.13.19:199][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-21.13.19:199][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.03.03-21.13.19:199][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.03.03-21.13.19:201][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.03.03-21.13.19:201][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.03.03-21.13.19:201][398]LogInit: FAudioDevice initialized with ID 41.
+[2024.03.03-21.13.19:201][398]LogAudio: Display: Audio Device (ID: 41) registered with world 'CastleDemo'.
+[2024.03.03-21.13.19:201][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.03.03-21.13.19:259][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.13.19:259][398]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-21.13.19:268][398]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.19:268][398]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.13.19:269][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-16.13.19
+[2024.03.03-21.13.19:270][398]LogWorld: Bringing up level for play took: 0.010256
+[2024.03.03-21.13.19:271][398]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2024.03.03-21.13.19:271][398]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-21.13.19:273][398]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.13.19:273][398]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.13.19:274][398]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.13.19:278][398]PIE: Server logged in
+[2024.03.03-21.13.19:281][398]PIE: Play in editor total start time 0.151 seconds.
+[2024.03.03-21.13.19:296][398]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-21.13.21:120][574]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.13.21:475][610]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.13.21:475][610]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.13.43:671][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.13.43:671][886]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.13.43:671][886]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-21.13.43:674][886]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.13.43:676][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.13.43:699][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-21.13.43:704][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.13.43:715][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.03-21.13.43:716][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.03.03-21.13.43:716][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.03.03-21.13.43:720][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.03.03-21.13.43:729][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.03-21.13.43:899][887]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2024.03.03-21.15.13:223][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-21.15.13:232][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.03-21.15.13:234][679]LogPlayLevel: [PlayLevel] Compiling Greystone_AnimBlueprint before play...
+[2024.03.03-21.15.13:235][679]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.03-21.15.13:329][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:329][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:330][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:330][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:330][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:330][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:331][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:331][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_48.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:331][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:331][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_49.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.15.13:356][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:356][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:356][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:356][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:357][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:357][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.15.13:357][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:357][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_49.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.15.13:373][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.03.03-21.15.13:379][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 147 ms (2 blueprints)
+[2024.03.03-21.15.13:380][679]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 11:15:13 AM)
+[2024.03.03-21.15.13:380][679]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.15.13:397][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016515s)
+[2024.03.03-21.15.13:397][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.016539s)
+[2024.03.03-21.15.13:406][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.03-21.15.13:407][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.15.13:408][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.15.13:408][679]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-21.15.13:408][679]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2024.03.03-21.15.13:408][679]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-21.15.13:408][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-21.15.13:408][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-21.15.13:409][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-21.15.13:409][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-21.15.13:409][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-21.15.13:411][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-21.15.13:431][679]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-21.15.13:431][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-21.15.13:431][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-21.15.13:431][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-21.15.13:431][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.03.03-21.15.13:431][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.03.03-21.15.13:433][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.03.03-21.15.13:433][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.03.03-21.15.13:433][679]LogInit: FAudioDevice initialized with ID 42.
+[2024.03.03-21.15.13:433][679]LogAudio: Display: Audio Device (ID: 42) registered with world 'CastleDemo'.
+[2024.03.03-21.15.13:433][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.03.03-21.15.13:485][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.15.13:485][679]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-21.15.13:493][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:493][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.15.13:494][679]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-16.15.13
+[2024.03.03-21.15.13:495][679]LogWorld: Bringing up level for play took: 0.010629
+[2024.03.03-21.15.13:498][679]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2024.03.03-21.15.13:498][679]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-21.15.13:499][679]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.15.13:499][679]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.15.13:499][679]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.15.13:502][679]PIE: Server logged in
+[2024.03.03-21.15.13:503][679]PIE: Play in editor total start time 0.271 seconds.
+[2024.03.03-21.15.13:615][679]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-21.15.15:219][807]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.15.15:571][841]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.15.15:571][841]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.15.23:552][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.15.23:552][630]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.15.23:552][630]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-21.15.23:555][630]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.15.23:556][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.15.23:578][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-21.15.23:583][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.15.23:595][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.03.03-21.15.23:595][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.03-21.15.23:601][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.03.03-21.15.23:608][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.03-21.15.23:796][631]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2024.03.03-21.15.42:691][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.15.42:934][884]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.03-21.15.42:935][884]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter36167F8F41F16CB079663DA88EB33ED9.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.03-21.15.42:940][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 11.5 sec)
+[2024.03.03-21.15.42:942][884]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.03-21.15.42:942][884]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.03-21.16.10:906][230]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.17.09:347][149]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.17.09:351][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.17.09:351][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.17.09:357][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.17.09:565][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.17.09:565][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.17.09:607][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.17.09:670][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.17.09:670][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.17.09:681][149]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.17.09:698][149]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.17.40:392][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.17.40:508][181]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE
+[2024.03.03-21.17.40:508][181]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UEAAE056824123F5565B8FFA90BA43C0D7.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.uasset'
+[2024.03.03-21.17.40:516][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 11.7 sec)
+[2024.03.03-21.17.40:517][181]AssetCheck: New page: Asset Save: BigHitToHead_UE
+[2024.03.03-21.17.40:517][181]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.17.49:631][798]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.17.49:634][798]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.17.49:681][798]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.17.49:681][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.17.49:689][798]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.17.49:689][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.17.49:735][798]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.17.49:736][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.18.12:316][456]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.18.12:318][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.18.12:318][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.18.12:324][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.18.12:530][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.18.12:530][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.18.12:570][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.18.12:633][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.18.12:633][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.18.12:644][456]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.18.12:662][456]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.23.37:933][ 63]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.03.03-21.24.37:400][904]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.24.37:410][904]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/77e850dc33c75901759b0830ed5e19cf2f25fe82
+[2024.03.03-21.24.55:559][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.24.55:657][ 59]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE
+[2024.03.03-21.24.55:658][ 59]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE81A6AC63459E1469C845DA91DADC38EC.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.uasset'
+[2024.03.03-21.24.55:665][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 11.8 sec)
+[2024.03.03-21.24.55:665][ 59]AssetCheck: New page: Asset Save: BigHitToHead_UE
+[2024.03.03-21.24.55:666][ 59]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.26.21:894][880]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-21.26.22:010][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.03-21.26.22:024][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:024][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:024][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:024][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:025][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:025][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:025][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:025][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_49.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:026][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:026][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_50.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.26.22:052][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:052][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:053][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:053][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:053][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:053][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.26.22:054][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.22:054][880]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_50.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.26.24:713][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-21.26.24:724][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-21.26.24:724][169]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 11:26:24 AM)
+[2024.03.03-21.26.24:724][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.26.24:741][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017171s)
+[2024.03.03-21.26.24:741][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.017193s)
+[2024.03.03-21.26.24:753][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.03-21.26.24:761][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.26.24:761][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.26.24:763][169]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-21.26.24:763][169]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2024.03.03-21.26.24:763][169]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-21.26.24:763][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-21.26.24:763][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-21.26.24:763][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-21.26.24:763][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-21.26.24:763][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-21.26.24:765][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-21.26.24:786][169]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-21.26.24:786][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-21.26.24:786][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-21.26.24:786][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-21.26.24:786][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.03.03-21.26.24:786][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.03.03-21.26.24:787][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.03.03-21.26.24:787][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.03.03-21.26.24:787][169]LogInit: FAudioDevice initialized with ID 43.
+[2024.03.03-21.26.24:787][169]LogAudio: Display: Audio Device (ID: 43) registered with world 'CastleDemo'.
+[2024.03.03-21.26.24:787][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.03.03-21.26.24:838][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.26.24:838][169]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-21.26.24:847][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.24:847][169]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.26.24:848][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-16.26.24
+[2024.03.03-21.26.24:850][169]LogWorld: Bringing up level for play took: 0.010536
+[2024.03.03-21.26.24:852][169]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2024.03.03-21.26.24:852][169]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-21.26.24:853][169]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.26.24:853][169]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.26.24:853][169]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.26.24:860][169]PIE: Server logged in
+[2024.03.03-21.26.24:865][169]PIE: Play in editor total start time 0.142 seconds.
+[2024.03.03-21.26.24:883][169]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-21.26.26:714][327]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.26.27:063][358]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.26.27:063][358]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.26.39:779][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.26.39:779][464]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.26.39:779][464]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-21.26.39:781][464]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.26.39:783][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.26.39:807][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-21.26.39:812][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.26.39:824][464]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.03-21.26.39:824][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.03.03-21.26.39:824][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.03.03-21.26.39:828][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.03.03-21.26.39:836][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.03-21.26.40:005][465]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2024.03.03-21.26.41:735][666]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.27.17:811][ 84]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.27.17:814][ 84]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.27.17:869][ 84]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.27.17:869][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.27.17:877][ 84]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.27.17:877][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.27.17:923][ 84]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.27.17:923][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.27.20:241][317]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.27.20:243][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.27.20:243][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.27.20:249][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.27.20:455][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.27.20:455][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.27.20:559][317]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.28.18:649][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.28.18:649][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.28.46:148][298]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.28.46:148][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.28.46:306][308]LogViewport: Scene viewport resized to 832x451, mode Windowed.
+[2024.03.03-21.28.46:327][309]LogViewport: Scene viewport resized to 829x451, mode Windowed.
+[2024.03.03-21.28.46:348][310]LogViewport: Scene viewport resized to 828x451, mode Windowed.
+[2024.03.03-21.28.46:369][311]LogViewport: Scene viewport resized to 825x451, mode Windowed.
+[2024.03.03-21.28.46:388][312]LogViewport: Scene viewport resized to 824x451, mode Windowed.
+[2024.03.03-21.28.46:409][313]LogViewport: Scene viewport resized to 820x451, mode Windowed.
+[2024.03.03-21.28.46:428][314]LogViewport: Scene viewport resized to 818x451, mode Windowed.
+[2024.03.03-21.28.46:907][348]LogViewport: Scene viewport resized to 816x451, mode Windowed.
+[2024.03.03-21.28.46:926][349]LogViewport: Scene viewport resized to 813x451, mode Windowed.
+[2024.03.03-21.28.46:946][350]LogViewport: Scene viewport resized to 808x451, mode Windowed.
+[2024.03.03-21.28.46:966][351]LogViewport: Scene viewport resized to 805x451, mode Windowed.
+[2024.03.03-21.28.46:988][352]LogViewport: Scene viewport resized to 801x451, mode Windowed.
+[2024.03.03-21.28.47:105][360]LogViewport: Scene viewport resized to 798x451, mode Windowed.
+[2024.03.03-21.28.47:126][361]LogViewport: Scene viewport resized to 794x451, mode Windowed.
+[2024.03.03-21.28.47:146][362]LogViewport: Scene viewport resized to 790x451, mode Windowed.
+[2024.03.03-21.28.47:168][363]LogViewport: Scene viewport resized to 787x451, mode Windowed.
+[2024.03.03-21.28.47:186][364]LogViewport: Scene viewport resized to 785x451, mode Windowed.
+[2024.03.03-21.28.47:208][365]LogViewport: Scene viewport resized to 783x451, mode Windowed.
+[2024.03.03-21.28.47:230][366]LogViewport: Scene viewport resized to 782x451, mode Windowed.
+[2024.03.03-21.28.47:386][377]LogViewport: Scene viewport resized to 777x451, mode Windowed.
+[2024.03.03-21.28.47:408][378]LogViewport: Scene viewport resized to 772x451, mode Windowed.
+[2024.03.03-21.28.47:426][379]LogViewport: Scene viewport resized to 766x451, mode Windowed.
+[2024.03.03-21.28.47:447][380]LogViewport: Scene viewport resized to 763x451, mode Windowed.
+[2024.03.03-21.28.47:523][385]LogViewport: Scene viewport resized to 758x451, mode Windowed.
+[2024.03.03-21.28.47:544][386]LogViewport: Scene viewport resized to 753x451, mode Windowed.
+[2024.03.03-21.28.47:564][387]LogViewport: Scene viewport resized to 747x451, mode Windowed.
+[2024.03.03-21.28.47:583][388]LogViewport: Scene viewport resized to 745x451, mode Windowed.
+[2024.03.03-21.28.47:962][415]LogViewport: Scene viewport resized to 747x451, mode Windowed.
+[2024.03.03-21.28.47:982][416]LogViewport: Scene viewport resized to 754x451, mode Windowed.
+[2024.03.03-21.28.48:002][417]LogViewport: Scene viewport resized to 765x451, mode Windowed.
+[2024.03.03-21.28.48:021][418]LogViewport: Scene viewport resized to 777x451, mode Windowed.
+[2024.03.03-21.28.48:041][419]LogViewport: Scene viewport resized to 785x451, mode Windowed.
+[2024.03.03-21.28.48:065][420]LogViewport: Scene viewport resized to 791x451, mode Windowed.
+[2024.03.03-21.28.48:085][421]LogViewport: Scene viewport resized to 793x451, mode Windowed.
+[2024.03.03-21.28.48:104][422]LogViewport: Scene viewport resized to 799x451, mode Windowed.
+[2024.03.03-21.28.48:125][423]LogViewport: Scene viewport resized to 805x451, mode Windowed.
+[2024.03.03-21.28.48:147][424]LogViewport: Scene viewport resized to 813x451, mode Windowed.
+[2024.03.03-21.28.48:166][425]LogViewport: Scene viewport resized to 820x451, mode Windowed.
+[2024.03.03-21.28.48:187][426]LogViewport: Scene viewport resized to 828x451, mode Windowed.
+[2024.03.03-21.28.48:207][427]LogViewport: Scene viewport resized to 833x451, mode Windowed.
+[2024.03.03-21.28.48:226][428]LogViewport: Scene viewport resized to 836x451, mode Windowed.
+[2024.03.03-21.28.48:540][450]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.28.59:483][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.28.59:483][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.29.06:607][666]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.29.06:633][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.29.06:664][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.29.06:664][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.29.06:701][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.29.06:714][667]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.29.06:714][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.29.09:119][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.03-21.29.09:125][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleDemo' took 0.020
+[2024.03.03-21.29.09:125][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.03-21.29.09:144][821]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.03-21.29.09:144][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.03-21.29.09:170][821]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0
+[2024.03.03-21.29.09:170][821]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter_Auto01E560E8546EC3877700437A08A36A454.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto0.uasset'
+[2024.03.03-21.29.09:171][821]LogFileHelpers: Auto-saving content packages took 0.046
+[2024.03.03-21.30.15:193][221]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.03.03-21.31.51:529][289]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.31.51:584][289]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.31.51:584][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.31.59:504][761]LogSlate: Window 'BigHitToHead_UE_Montage' being destroyed
+[2024.03.03-21.31.59:506][761]LogSlate: Window 'BigHitToHead_UE_Montage' being destroyed
+[2024.03.03-21.31.59:532][761]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.31.59:532][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.31.59:581][761]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.31.59:581][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.32.12:536][209]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-21.32.12:652][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.03-21.32.12:667][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:667][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:668][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:668][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:669][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:669][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:669][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:669][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_50.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:670][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:670][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_51.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.32.12:696][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:696][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:696][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:696][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:697][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:697][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.32.12:697][209]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.32.12:697][209]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_51.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.32.13:319][252]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.32.17:699][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.03-21.32.20:785][691]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-21.32.20:791][691]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+	Asset Type: AnimMontage
+[2024.03.03-21.32.21:057][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.03-21.32.21:067][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.03-21.32.21:077][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.03-21.32.32:664][948]LogContentBrowser: Deferred new asset file creation: BigHitToHead_UE_Montage
+[2024.03.03-21.32.32:685][948]LogContentBrowser: Creating deferred item: BigHitToHead_UE_Montage
+[2024.03.03-21.32.32:696][949]LogContentBrowser: Renaming the item being created (Deferred Item: BigHitToHead_UE_Montage).
+[2024.03.03-21.32.35:308][250]LogContentBrowser: Attempting asset rename: BigHitToHead_UE_Montage -> BigHitToHead_UE_Montage
+[2024.03.03-21.32.35:308][250]LogContentBrowser: End creating deferred item BigHitToHead_UE_Montage
+[2024.03.03-21.32.36:500][378]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.32.36:503][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.32.36:503][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.32.36:508][378]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.32.36:712][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.32.36:712][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.32.36:817][378]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.32.43:233][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.32.43:326][793]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage
+[2024.03.03-21.32.43:326][793]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE_MontageCD46E0F045ACD75D1373E2BF44EEE652.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.uasset'
+[2024.03.03-21.32.43:336][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 11.9 sec)
+[2024.03.03-21.32.43:336][793]AssetCheck: New page: Asset Save: BigHitToHead_UE_Montage
+[2024.03.03-21.32.43:336][793]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.32.48:140][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.32.52:780][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.32.52:852][397]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage
+[2024.03.03-21.32.52:852][397]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE_MontageB1764379430AFC7A88D5BE995C7C9EB5.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.uasset'
+[2024.03.03-21.32.52:857][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 11.9 sec)
+[2024.03.03-21.32.52:858][397]AssetCheck: New page: Asset Save: BigHitToHead_UE_Montage
+[2024.03.03-21.32.52:858][397]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.32.55:045][545]LogSlate: Window 'BigHitToHead_UE_Montage' being destroyed
+[2024.03.03-21.32.55:049][545]LogSlate: Window 'BigHitToHead_UE_Montage' being destroyed
+[2024.03.03-21.32.55:075][545]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.32.55:075][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.32.55:123][545]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.32.55:123][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.33.36:724][446]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-21.33.36:832][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.03-21.33.36:840][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:840][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:841][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:841][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:842][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:842][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:842][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:842][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_51.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:843][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:843][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_52.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.33.36:869][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:869][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:869][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:869][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:870][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:870][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.33.36:870][446]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.33.36:870][446]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_52.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.34.46:556][767]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:55.133 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 28541 files in 30429 folders with total size 4592 MiB.
+[2024.03.03-21.37.56:993][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-21.37.57:004][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-21.37.57:004][196]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 11:37:57 AM)
+[2024.03.03-21.37.57:004][196]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.37.57:021][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016868s)
+[2024.03.03-21.37.57:021][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.016891s)
+[2024.03.03-21.37.57:034][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.03-21.37.57:045][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.37.57:045][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.37.57:046][196]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-21.37.57:046][196]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2024.03.03-21.37.57:046][196]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-21.37.57:046][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-21.37.57:046][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-21.37.57:046][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-21.37.57:046][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-21.37.57:046][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-21.37.57:048][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-21.37.57:070][196]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-21.37.57:070][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-21.37.57:070][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-21.37.57:070][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-21.37.57:071][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.03.03-21.37.57:071][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.03.03-21.37.57:072][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.03.03-21.37.57:072][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.03.03-21.37.57:072][196]LogInit: FAudioDevice initialized with ID 44.
+[2024.03.03-21.37.57:073][196]LogAudio: Display: Audio Device (ID: 44) registered with world 'CastleDemo'.
+[2024.03.03-21.37.57:073][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.03.03-21.37.57:123][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.37.57:123][196]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-21.37.57:132][196]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.37.57:132][196]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.37.57:133][196]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-16.37.57
+[2024.03.03-21.37.57:134][196]LogWorld: Bringing up level for play took: 0.010340
+[2024.03.03-21.37.57:135][196]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2024.03.03-21.37.57:136][196]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-21.37.57:136][196]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.37.57:136][196]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.37.57:137][196]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.37.57:143][196]PIE: Server logged in
+[2024.03.03-21.37.57:146][196]PIE: Play in editor total start time 0.144 seconds.
+[2024.03.03-21.37.57:160][196]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-21.37.58:995][351]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-21.37.59:347][385]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-21.38.06:777][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-21.38.06:777][111]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-21.38.06:777][111]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-21.38.06:779][111]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.38.06:782][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.38.06:804][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-21.38.06:809][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.38.06:820][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.03-21.38.06:821][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.03.03-21.38.06:821][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.03.03-21.38.06:827][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.03.03-21.38.06:835][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.03-21.38.07:010][112]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2024.03.03-21.38.08:937][339]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.38.18:883][468]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-21.38.18:992][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.03-21.38.19:002][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:002][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:003][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:003][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:003][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:003][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:004][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:004][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_52.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:005][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:005][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_53.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.38.19:030][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:030][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:031][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:031][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:032][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:032][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.38.19:032][468]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.38.19:032][468]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_53.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.38.19:630][508]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.38.22:520][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.03-21.38.23:866][790]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.03-21.38.23:871][790]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+	Asset Type: AnimMontage
+[2024.03.03-21.38.24:130][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.03-21.38.24:142][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.03-21.38.24:152][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.03.03-21.38.25:653][937]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.38.25:655][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.38.25:655][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.38.25:661][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.38.25:861][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.38.25:861][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.38.25:902][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.38.25:966][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.38.25:966][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.38.25:977][937]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.38.25:994][937]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.38.51:359][607]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.38.51:369][607]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/ab9e0772c16a66ce655fa18ff370ac93eb1d0238
+[2024.03.03-21.38.51:383][607]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.03.03-21.39.05:137][480]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.39.05:145][480]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/7e8ee9dac3d9351785d4080ccebccb6bc1c7685e
+[2024.03.03-21.39.13:438][  9]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.39.13:445][  9]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/fdfafae787d169272edf87c8610f9e2ad2fa84f3
+[2024.03.03-21.39.38:448][626]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.39.38:455][626]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/1ead1a69da27343f10282482cac7093f380a4569
+[2024.03.03-21.39.43:718][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.39.43:840][967]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE
+[2024.03.03-21.39.43:840][967]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE3CA95AEB422B8937E622B4B13007501B.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.uasset'
+[2024.03.03-21.39.43:845][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 12.1 sec)
+[2024.03.03-21.39.43:846][967]AssetCheck: New page: Asset Save: BigHitToHead_UE
+[2024.03.03-21.39.43:846][967]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.40.10:655][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.03-21.40.10:659][251]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleDemo' took 0.015
+[2024.03.03-21.40.10:659][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.03-21.40.10:818][251]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.03-21.40.10:818][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.03-21.40.10:845][251]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.03.03-21.40.10:846][251]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter_Auto117671D7F4B6541BBE82A42A4D3F93ECE.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.03.03-21.40.10:847][251]LogFileHelpers: Auto-saving content packages took 0.188
+[2024.03.03-21.46.15:455][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.46.15:550][626]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE
+[2024.03.03-21.46.15:551][626]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE13236E4340210AF005DCC7AC61CE39F3.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.uasset'
+[2024.03.03-21.46.15:555][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 12.2 sec)
+[2024.03.03-21.46.15:556][626]AssetCheck: New page: Asset Save: BigHitToHead_UE
+[2024.03.03-21.46.15:556][626]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.46.16:698][698]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.46.16:700][698]LogSlate: Window 'BigHitToHead_UE' being destroyed
+[2024.03.03-21.46.16:725][698]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.46.16:725][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.46.16:735][698]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.46.16:735][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.46.16:783][698]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.46.16:783][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.46.25:713][692]LogContentBrowser: Deferred new asset file creation: BigHitToHead_UE_Montage
+[2024.03.03-21.46.25:726][692]LogContentBrowser: Creating deferred item: BigHitToHead_UE_Montage
+[2024.03.03-21.46.25:736][693]LogContentBrowser: Renaming the item being created (Deferred Item: BigHitToHead_UE_Montage).
+[2024.03.03-21.46.28:979][ 66]LogContentBrowser: Attempting asset rename: BigHitToHead_UE_Montage -> BigHitToHead_UE_Montage
+[2024.03.03-21.46.28:980][ 66]LogContentBrowser: End creating deferred item BigHitToHead_UE_Montage
+[2024.03.03-21.46.31:297][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.03-21.46.32:896][336]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-21.46.32:900][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.46.33:037][336]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage
+[2024.03.03-21.46.33:037][336]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE_Montage87AF15294D5494129FE050BFD0779DE3.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.uasset'
+[2024.03.03-21.46.33:063][336]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.03-21.46.33:064][336]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter7D239E0D433C22AD44B58EA176C04125.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.03-21.46.33:069][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 12.3 sec)
+[2024.03.03-21.46.33:070][336]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-21.46.33:070][336]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE_Montage.BigHitToHead_UE_Montage
+[2024.03.03-21.46.33:070][336]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.03-21.50.42:579][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
