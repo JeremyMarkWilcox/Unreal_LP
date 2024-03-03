@@ -5925,3 +5925,1734 @@ center_of_mass
 [2024.03.03-20.24.02:624][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.03.03-20.24.02:679][921]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
 [2024.03.03-20.24.02:679][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-20.29.27:269][793]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2024.03.03-20.29.27:270][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-20.29.27:270][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-20.29.27:277][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-20.29.27:277][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-20.29.27:282][793]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-20.29.27:450][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-20.29.27:450][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-20.29.27:528][793]LogViewport: Scene viewport resized to 423x584, mode Windowed.
+[2024.03.03-20.32.20:926][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.20:926][ 12]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.32.20:927][ 12]LogViewport: Scene viewport resized to 916x968, mode Windowed.
+[2024.03.03-20.32.48:158][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:158][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:159][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:159][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:160][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:160][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:161][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:161][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_45.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.32.48:162][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:162][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:163][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:163][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_45.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.32.48:164][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:164][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:166][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:166][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.48:181][239]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.32.48:181][239]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_2
+[2024.03.03-20.32.50:417][504]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.03.03-20.33.44:426][238]BlueprintLog: New page: Compile Greystone_AnimBlueprint
+[2024.03.03-20.33.44:579][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.03-20.33.46:652][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-20.33.46:662][472]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.03-20.33.46:663][472]LogPlayLevel: [PlayLevel] Compiling Greystone_AnimBlueprint before play...
+[2024.03.03-20.33.46:667][472]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.03.03-20.33.46:785][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:785][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:785][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:785][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_45.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:786][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:786][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:787][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:787][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:787][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:787][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_46.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.33.46:811][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:811][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:812][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:812][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:812][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:812][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.33.46:813][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:813][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_46.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.33.46:830][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.03-20.33.46:835][472]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (2 blueprints)
+[2024.03.03-20.33.46:835][472]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 10:33:46 AM)
+[2024.03.03-20.33.46:835][472]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-20.33.46:852][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016839s)
+[2024.03.03-20.33.46:852][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.016862s)
+[2024.03.03-20.33.46:860][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.03-20.33.46:862][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-20.33.46:862][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-20.33.46:862][472]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-20.33.46:863][472]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2024.03.03-20.33.46:863][472]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-20.33.46:863][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-20.33.46:863][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-20.33.46:863][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-20.33.46:863][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-20.33.46:863][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-20.33.46:865][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-20.33.46:886][472]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-20.33.46:886][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-20.33.46:886][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-20.33.46:886][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-20.33.46:886][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.03.03-20.33.46:886][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.03.03-20.33.46:888][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.03.03-20.33.46:888][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.03.03-20.33.46:888][472]LogInit: FAudioDevice initialized with ID 39.
+[2024.03.03-20.33.46:888][472]LogAudio: Display: Audio Device (ID: 39) registered with world 'CastleDemo'.
+[2024.03.03-20.33.46:888][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.03.03-20.33.46:943][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-20.33.46:943][472]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-20.33.46:952][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:952][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.33.46:953][472]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-15.33.46
+[2024.03.03-20.33.46:954][472]LogWorld: Bringing up level for play took: 0.010756
+[2024.03.03-20.33.46:956][472]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.03.03-20.33.46:956][472]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-20.33.46:957][472]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.33.46:957][472]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.33.46:958][472]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-20.33.46:961][472]PIE: Server logged in
+[2024.03.03-20.33.46:962][472]PIE: Play in editor total start time 0.3 seconds.
+[2024.03.03-20.33.47:038][472]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-20.33.48:652][624]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-20.33.55:419][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-20.33.55:419][274]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-20.33.55:419][274]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-20.33.55:422][274]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-20.33.55:423][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-20.33.55:428][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-20.33.55:432][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-20.33.55:444][274]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.03.03-20.33.55:444][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.03.03-20.33.55:451][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.03.03-20.33.55:460][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.03-20.33.55:531][275]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.03.03-20.34.33:186][177]BlueprintLog: New page: Compile Greystone_AnimBlueprint
+[2024.03.03-20.34.33:228][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.03-20.34.46:535][746]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:55.113 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 28530 files in 30410 folders with total size 4591 MiB.
+[2024.03.03-20.37.58:799][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.03-20.37.58:802][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleDemo' took 0.020
+[2024.03.03-20.37.58:802][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.03-20.37.58:969][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.03-20.37.58:969][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.03-20.37.58:995][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2024.03.03-20.37.58:995][545]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter_Auto826C405E740267383251F51A9393AC55D.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2024.03.03-20.37.58:997][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint] ([2] browsable assets)...
+[2024.03.03-20.37.59:090][545]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint]
+[2024.03.03-20.37.59:090][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint]
+[2024.03.03-20.37.59:152][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint_Auto8
+[2024.03.03-20.37.59:152][545]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Greystone_AnimBlueprint_Auto8073751804760BEBBF42C949DD7649641.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint_Auto8.uasset'
+[2024.03.03-20.37.59:153][545]LogFileHelpers: Auto-saving content packages took 0.351
+[2024.03.03-20.38.03:276][563]BlueprintLog: New page: Compile Greystone_AnimBlueprint
+[2024.03.03-20.38.03:320][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.03-20.38.33:631][369]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.38.33:631][369]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:715][669]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.03-20.39.02:830][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.03-20.39.02:850][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:850][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:851][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:851][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:851][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:851][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:852][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:852][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_46.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:853][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:853][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.39.02:883][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:883][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:884][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:884][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:884][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:885][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-20.39.02:885][669]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.02:885][669]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.39.03:623][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-20.39.03:755][733]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.03-20.39.03:756][733]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter2D4BEA1045BF57C30B14FBA7A9E69033.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.03-20.39.03:761][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 10.2 sec)
+[2024.03.03-20.39.03:762][733]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.03-20.39.03:762][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.03-20.39.07:992][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.03-20.39.08:001][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.03-20.39.08:001][888]PIE: New page: PIE session: CastleDemo (Mar 3, 2024, 10:39:08 AM)
+[2024.03.03-20.39.08:001][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-20.39.08:018][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016767s)
+[2024.03.03-20.39.08:018][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.016790s)
+[2024.03.03-20.39.08:030][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.03-20.39.08:042][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-20.39.08:042][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-20.39.08:042][888]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.03-20.39.08:043][888]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2024.03.03-20.39.08:043][888]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-20.39.08:043][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.03-20.39.08:043][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-20.39.08:043][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.03-20.39.08:043][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.03-20.39.08:043][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.03-20.39.08:045][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.03-20.39.08:065][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.03-20.39.08:065][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-20.39.08:065][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-20.39.08:065][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-20.39.08:067][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.03.03-20.39.08:067][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.03.03-20.39.08:068][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.03.03-20.39.08:068][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.03.03-20.39.08:068][888]LogInit: FAudioDevice initialized with ID 40.
+[2024.03.03-20.39.08:068][888]LogAudio: Display: Audio Device (ID: 40) registered with world 'CastleDemo'.
+[2024.03.03-20.39.08:068][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.03.03-20.39.08:123][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-20.39.08:124][888]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.03-20.39.08:133][888]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.08:133][888]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.39.08:133][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.03-15.39.08
+[2024.03.03-20.39.08:134][888]LogWorld: Bringing up level for play took: 0.010172
+[2024.03.03-20.39.08:136][888]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.03.03-20.39.08:137][888]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.03-20.39.08:137][888]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-20.39.08:137][888]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-20.39.08:138][888]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.03.03-20.39.08:143][888]PIE: Server logged in
+[2024.03.03-20.39.08:147][888]PIE: Play in editor total start time 0.147 seconds.
+[2024.03.03-20.39.08:162][888]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.03.03-20.39.09:991][ 56]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2024.03.03-20.39.10:342][ 93]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-20.39.10:342][ 93]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.03-20.39.19:888][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-20.39.19:888][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.03-20.39.19:888][145]LogSlate: Window 'CastleDemo Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.03.03-20.39.19:891][145]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-20.39.19:892][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-20.39.19:916][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.03-20.39.19:922][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-20.39.19:933][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.03-20.39.19:933][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.03.03-20.39.19:933][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.03.03-20.39.19:938][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.03.03-20.39.19:947][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.03-20.39.20:118][146]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.03.03-20.48.10:957][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.03-20.48.10:962][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CastleDemo' took 0.017
+[2024.03.03-20.48.10:962][643]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint] ([2] browsable assets)...
+[2024.03.03-20.48.11:120][643]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint]
+[2024.03.03-20.48.11:120][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint]
+[2024.03.03-20.48.11:186][643]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint_Auto9
+[2024.03.03-20.48.11:186][643]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Greystone_AnimBlueprint_Auto915B497EC4B1B0066E1BFC1BF02209038.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Autosaves/Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint_Auto9.uasset'
+[2024.03.03-20.48.11:187][643]LogFileHelpers: Auto-saving content packages took 0.225
+[2024.03.03-21.06.29:038][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.06.29:131][354]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.03-21.06.29:132][354]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacter2B8B2EFE4579B16A6BE94E9451603B37.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.03-21.06.29:136][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 10.3 sec)
+[2024.03.03-21.06.29:137][354]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.03-21.06.29:137][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.03-21.06.34:592][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.06.34:726][985]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint
+[2024.03.03-21.06.34:727][985]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/Greystone_AnimBlueprintD10252C8445A81F3520529B939CF11BB.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.uasset'
+[2024.03.03-21.06.34:733][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 10.5 sec)
+[2024.03.03-21.06.34:734][985]AssetCheck: New page: Asset Save: Greystone_AnimBlueprint
+[2024.03.03-21.06.34:734][985]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2024.03.03-21.06.36:002][129]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.06.36:002][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.06.36:019][129]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.06.36:019][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.06.36:069][129]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.06.36:069][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.06.37:114][240]LogViewport: Scene viewport resized to 428x202, mode Windowed.
+[2024.03.03-21.07.05:228][503]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigHitToHead.UE.fbx)
+[2024.03.03-21.07.05:231][503]LogFbx: Loading FBX Scene from C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigHitToHead.UE.fbx
+[2024.03.03-21.07.05:250][503]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-21.07.49:098][503]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(0) root
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(1) pelvis
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(2) spine_01
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(3) spine_02
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(4) spine_03
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(5) spine_04
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(6) spine_05
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(7) neck_01
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(8) neck_02
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(9) head
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(10) clavicle_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(11) upperarm_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(20) hand_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(21) middle_metacarpal_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(22) middle_01_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(23) middle_02_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(24) middle_03_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(25) pinky_metacarpal_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(26) pinky_01_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(27) pinky_02_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(28) pinky_03_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(29) ring_metacarpal_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(30) ring_01_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(31) ring_02_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(32) ring_03_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(33) thumb_01_l
+[2024.03.03-21.07.49:128][503]LogFbx: SortedLinks :(34) thumb_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(35) thumb_03_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(36) index_metacarpal_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(37) index_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(38) index_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(39) index_03_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(40) wrist_inner_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(41) wrist_outer_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(42) weapon_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(56) clavicle_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(57) upperarm_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(66) hand_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(67) middle_metacarpal_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(68) middle_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(69) middle_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(70) middle_03_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(71) pinky_metacarpal_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(72) pinky_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(73) pinky_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(74) pinky_03_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(75) ring_metacarpal_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(76) ring_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(77) ring_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(78) ring_03_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(79) thumb_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(80) thumb_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(81) thumb_03_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(83) index_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(84) index_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(85) index_03_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(86) wrist_inner_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(87) wrist_outer_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(88) weapon_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(106) thigh_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(107) calf_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(108) foot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(109) ball_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(110) ankle_bck_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(129) thigh_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(130) calf_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(131) foot_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(132) ball_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(159) interaction
+[2024.03.03-21.07.49:129][503]LogFbx: SortedLinks :(160) center_of_mass
+[2024.03.03-21.07.49:129][503]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.03-21.07.49:455][503]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:47) 
+Source Global Transform (-0.575656,-2.386082,136.367326|66.679647,132.929597,110.217590|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.454599,-0.243053,110.117856|63.792920,138.324483,111.515960|1.000000,1.000000,1.000000)
+[2024.03.03-21.07.49:461][503]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:463][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_14:PersistentLevel.GreystonePlayerCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.49:464][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:464][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:464][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:464][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.49:469][503]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/304213c5bde846ed83579e4cd941090f9ec9e111
+[2024.03.03-21.07.49:470][503]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ spine_04  
+spine_05  
+neck_02  
+lowerarm_twist_02_l  
+lowerarm_correctiveRoot_l  
+lowerarm_in_l  
+lowerarm_out_l  
+lowerarm_fwd_l  
+lowerarm_bck_l  
+middle_metacarpal_l  
+pinky_metacarpal_l  
+ring_metacarpal_l  
+index_metacarpal_l  
+wrist_inner_l  
+wrist_outer_l  
+weapon_l  
+upperarm_twistCor_01_l  
+upperarm_twist_02_l  
+upperarm_tricep_l  
+upperarm_bicep_l  
+upperarm_twistCor_02_l  
+upperarm_correctiveRoot_l  
+upperarm_bck_l  
+upperarm_fwd_l  
+upperarm_in_l  
+upperarm_out_l  
+clavicle_out_l  
+clavicle_scap_l  
+lowerarm_twist_02_r  
+lowerarm_correctiveRoot_r  
+lowerarm_out_r  
+lowerarm_in_r  
+lowerarm_fwd_r  
+lowerarm_bck_r  
+middle_metacarpal_r  
+pinky_metacarpal_r  
+ring_metacarpal_r  
+index_metacarpal_r  
+wrist_inner_r  
+wrist_outer_r  
+weapon_r  
+upperarm_twistCor_01_r  
+upperarm_twist_02_r  
+upperarm_tricep_r  
+upperarm_bicep_r  
+upperarm_twistCor_02_r  
+upperarm_correctiveRoot_r  
+upperarm_bck_r  
+upperarm_in_r  
+upperarm_fwd_r  
+upperarm_out_r  
+clavicle_out_r  
+clavicle_scap_r  
+clavicle_pec_r  
+spine_04_latissimus_l  
+spine_04_latissimus_r  
+clavicle_pec_l  
+ankle_bck_r  
+ankle_fwd_r  
+calf_twist_02_r  
+calf_twistCor_02_r  
+calf_correctiveRoot_r  
+calf_kneeBack_r  
+calf_knee_r  
+thigh_twistCor_01_r  
+thigh_twist_02_r  
+thigh_twistCor_02_r  
+thigh_correctiveRoot_r  
+thigh_fwd_r  
+thigh_bck_r  
+thigh_out_r  
+thigh_in_r  
+thigh_bck_lwr_r  
+thigh_fwd_lwr_r  
+ankle_bck_l  
+ankle_fwd_l  
+calf_twist_02_l  
+calf_twistCor_02_l  
+calf_correctiveRoot_l  
+calf_kneeBack_l  
+calf_knee_l  
+thigh_twistCor_01_l  
+thigh_twist_02_l  
+thigh_twistCor_02_l  
+thigh_correctiveRoot_l  
+thigh_bck_l  
+thigh_fwd_l  
+thigh_out_l  
+thigh_bck_lwr_l  
+thigh_in_l  
+thigh_fwd_lwr_l  
+interaction  
+center_of_mass  
+ 
+[2024.03.03-21.07.49:470][503]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.03.03-21.07.49:567][503]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigRibHit.UE.fbx)
+[2024.03.03-21.07.49:571][503]LogFbx: Loading FBX Scene from C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigRibHit.UE.fbx
+[2024.03.03-21.07.49:592][503]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(0) root
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(1) pelvis
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(2) spine_01
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(3) spine_02
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(4) spine_03
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(5) spine_04
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(6) spine_05
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(7) neck_01
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(8) neck_02
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(9) head
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(10) clavicle_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(11) upperarm_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(20) hand_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(21) middle_metacarpal_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(22) middle_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(23) middle_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(24) middle_03_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(25) pinky_metacarpal_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(26) pinky_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(27) pinky_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(28) pinky_03_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(29) ring_metacarpal_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(30) ring_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(31) ring_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(32) ring_03_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(33) thumb_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(34) thumb_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(35) thumb_03_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(36) index_metacarpal_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(37) index_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(38) index_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(39) index_03_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(40) wrist_inner_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(41) wrist_outer_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(42) weapon_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(56) clavicle_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(57) upperarm_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(66) hand_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(67) middle_metacarpal_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(68) middle_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(69) middle_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(70) middle_03_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(71) pinky_metacarpal_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(72) pinky_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(73) pinky_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(74) pinky_03_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(75) ring_metacarpal_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(76) ring_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(77) ring_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(78) ring_03_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(79) thumb_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(80) thumb_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(81) thumb_03_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(83) index_01_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(84) index_02_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(85) index_03_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(86) wrist_inner_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(87) wrist_outer_r
+[2024.03.03-21.07.49:593][503]LogFbx: SortedLinks :(88) weapon_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(106) thigh_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(107) calf_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(108) foot_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(109) ball_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(110) ankle_bck_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(129) thigh_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(130) calf_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(131) foot_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(132) ball_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(159) interaction
+[2024.03.03-21.07.49:594][503]LogFbx: SortedLinks :(160) center_of_mass
+[2024.03.03-21.07.49:594][503]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.03-21.07.49:870][503]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:47) 
+Source Global Transform (-0.575652,-2.386091,136.367326|66.679639,132.929628,110.217616|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.454597,-0.243059,110.117857|63.792908,138.324500,111.515974|1.000000,1.000000,1.000000)
+[2024.03.03-21.07.49:877][503]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigRibHit_UE.BigRibHit_UE
+[2024.03.03-21.07.49:879][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:879][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:879][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:879][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_14:PersistentLevel.GreystonePlayerCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.49:880][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.49:885][503]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/BigRibHit_UE.BigRibHit_UE, at AnimationSequence/bc605d20ed322163dd079cc512f859adc0c9255f
+[2024.03.03-21.07.49:886][503]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ spine_04  
+spine_05  
+neck_02  
+lowerarm_twist_02_l  
+lowerarm_correctiveRoot_l  
+lowerarm_in_l  
+lowerarm_out_l  
+lowerarm_fwd_l  
+lowerarm_bck_l  
+middle_metacarpal_l  
+pinky_metacarpal_l  
+ring_metacarpal_l  
+index_metacarpal_l  
+wrist_inner_l  
+wrist_outer_l  
+weapon_l  
+upperarm_twistCor_01_l  
+upperarm_twist_02_l  
+upperarm_tricep_l  
+upperarm_bicep_l  
+upperarm_twistCor_02_l  
+upperarm_correctiveRoot_l  
+upperarm_bck_l  
+upperarm_fwd_l  
+upperarm_in_l  
+upperarm_out_l  
+clavicle_out_l  
+clavicle_scap_l  
+lowerarm_twist_02_r  
+lowerarm_correctiveRoot_r  
+lowerarm_out_r  
+lowerarm_in_r  
+lowerarm_fwd_r  
+lowerarm_bck_r  
+middle_metacarpal_r  
+pinky_metacarpal_r  
+ring_metacarpal_r  
+index_metacarpal_r  
+wrist_inner_r  
+wrist_outer_r  
+weapon_r  
+upperarm_twistCor_01_r  
+upperarm_twist_02_r  
+upperarm_tricep_r  
+upperarm_bicep_r  
+upperarm_twistCor_02_r  
+upperarm_correctiveRoot_r  
+upperarm_bck_r  
+upperarm_in_r  
+upperarm_fwd_r  
+upperarm_out_r  
+clavicle_out_r  
+clavicle_scap_r  
+clavicle_pec_r  
+spine_04_latissimus_l  
+spine_04_latissimus_r  
+clavicle_pec_l  
+ankle_bck_r  
+ankle_fwd_r  
+calf_twist_02_r  
+calf_twistCor_02_r  
+calf_correctiveRoot_r  
+calf_kneeBack_r  
+calf_knee_r  
+thigh_twistCor_01_r  
+thigh_twist_02_r  
+thigh_twistCor_02_r  
+thigh_correctiveRoot_r  
+thigh_fwd_r  
+thigh_bck_r  
+thigh_out_r  
+thigh_in_r  
+thigh_bck_lwr_r  
+thigh_fwd_lwr_r  
+ankle_bck_l  
+ankle_fwd_l  
+calf_twist_02_l  
+calf_twistCor_02_l  
+calf_correctiveRoot_l  
+calf_kneeBack_l  
+calf_knee_l  
+thigh_twistCor_01_l  
+thigh_twist_02_l  
+thigh_twistCor_02_l  
+thigh_correctiveRoot_l  
+thigh_bck_l  
+thigh_fwd_l  
+thigh_out_l  
+thigh_bck_lwr_l  
+thigh_in_l  
+thigh_fwd_lwr_l  
+interaction  
+center_of_mass  
+ 
+[2024.03.03-21.07.49:886][503]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.03.03-21.07.49:888][503]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigStomachHit.UE.fbx)
+[2024.03.03-21.07.49:892][503]LogFbx: Loading FBX Scene from C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\BigStomachHit.UE.fbx
+[2024.03.03-21.07.49:911][503]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(0) root
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(1) pelvis
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(2) spine_01
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(3) spine_02
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(4) spine_03
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(5) spine_04
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(6) spine_05
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(7) neck_01
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(8) neck_02
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(9) head
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(10) clavicle_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(11) upperarm_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(20) hand_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(21) middle_metacarpal_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(22) middle_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(23) middle_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(24) middle_03_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(25) pinky_metacarpal_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(26) pinky_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(27) pinky_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(28) pinky_03_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(29) ring_metacarpal_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(30) ring_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(31) ring_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(32) ring_03_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(33) thumb_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(34) thumb_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(35) thumb_03_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(36) index_metacarpal_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(37) index_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(38) index_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(39) index_03_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(40) wrist_inner_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(41) wrist_outer_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(42) weapon_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(56) clavicle_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(57) upperarm_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(66) hand_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(67) middle_metacarpal_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(68) middle_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(69) middle_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(70) middle_03_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(71) pinky_metacarpal_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(72) pinky_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(73) pinky_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(74) pinky_03_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(75) ring_metacarpal_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(76) ring_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(77) ring_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(78) ring_03_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(79) thumb_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(80) thumb_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(81) thumb_03_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(83) index_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(84) index_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(85) index_03_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(86) wrist_inner_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(87) wrist_outer_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(88) weapon_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.03.03-21.07.49:913][503]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(106) thigh_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(107) calf_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(108) foot_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(109) ball_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(110) ankle_bck_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(129) thigh_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(130) calf_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(131) foot_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(132) ball_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(159) interaction
+[2024.03.03-21.07.49:914][503]LogFbx: SortedLinks :(160) center_of_mass
+[2024.03.03-21.07.49:914][503]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.03-21.07.50:225][503]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:47) 
+Source Global Transform (-0.575652,-2.386091,136.367326|66.679644,132.929604,110.217595|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.454597,-0.243059,110.117857|63.792914,138.324478,111.515957|1.000000,1.000000,1.000000)
+[2024.03.03-21.07.50:232][503]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigStomachHit_UE.BigStomachHit_UE
+[2024.03.03-21.07.50:233][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:233][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_14:PersistentLevel.GreystonePlayerCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:234][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:235][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:235][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:239][503]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/BigStomachHit_UE.BigStomachHit_UE, at AnimationSequence/434c206e2b88ea914f20c8f9372becde8f0d31a1
+[2024.03.03-21.07.50:240][503]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ spine_04  
+spine_05  
+neck_02  
+lowerarm_twist_02_l  
+lowerarm_correctiveRoot_l  
+lowerarm_in_l  
+lowerarm_out_l  
+lowerarm_fwd_l  
+lowerarm_bck_l  
+middle_metacarpal_l  
+pinky_metacarpal_l  
+ring_metacarpal_l  
+index_metacarpal_l  
+wrist_inner_l  
+wrist_outer_l  
+weapon_l  
+upperarm_twistCor_01_l  
+upperarm_twist_02_l  
+upperarm_tricep_l  
+upperarm_bicep_l  
+upperarm_twistCor_02_l  
+upperarm_correctiveRoot_l  
+upperarm_bck_l  
+upperarm_fwd_l  
+upperarm_in_l  
+upperarm_out_l  
+clavicle_out_l  
+clavicle_scap_l  
+lowerarm_twist_02_r  
+lowerarm_correctiveRoot_r  
+lowerarm_out_r  
+lowerarm_in_r  
+lowerarm_fwd_r  
+lowerarm_bck_r  
+middle_metacarpal_r  
+pinky_metacarpal_r  
+ring_metacarpal_r  
+index_metacarpal_r  
+wrist_inner_r  
+wrist_outer_r  
+weapon_r  
+upperarm_twistCor_01_r  
+upperarm_twist_02_r  
+upperarm_tricep_r  
+upperarm_bicep_r  
+upperarm_twistCor_02_r  
+upperarm_correctiveRoot_r  
+upperarm_bck_r  
+upperarm_in_r  
+upperarm_fwd_r  
+upperarm_out_r  
+clavicle_out_r  
+clavicle_scap_r  
+clavicle_pec_r  
+spine_04_latissimus_l  
+spine_04_latissimus_r  
+clavicle_pec_l  
+ankle_bck_r  
+ankle_fwd_r  
+calf_twist_02_r  
+calf_twistCor_02_r  
+calf_correctiveRoot_r  
+calf_kneeBack_r  
+calf_knee_r  
+thigh_twistCor_01_r  
+thigh_twist_02_r  
+thigh_twistCor_02_r  
+thigh_correctiveRoot_r  
+thigh_fwd_r  
+thigh_bck_r  
+thigh_out_r  
+thigh_in_r  
+thigh_bck_lwr_r  
+thigh_fwd_lwr_r  
+ankle_bck_l  
+ankle_fwd_l  
+calf_twist_02_l  
+calf_twistCor_02_l  
+calf_correctiveRoot_l  
+calf_kneeBack_l  
+calf_knee_l  
+thigh_twistCor_01_l  
+thigh_twist_02_l  
+thigh_twistCor_02_l  
+thigh_correctiveRoot_l  
+thigh_bck_l  
+thigh_fwd_l  
+thigh_out_l  
+thigh_bck_lwr_l  
+thigh_in_l  
+thigh_fwd_lwr_l  
+interaction  
+center_of_mass  
+ 
+[2024.03.03-21.07.50:240][503]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.03.03-21.07.50:242][503]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\HeadHit.UE.fbx)
+[2024.03.03-21.07.50:246][503]LogFbx: Loading FBX Scene from C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\HeadHit.UE.fbx
+[2024.03.03-21.07.50:264][503]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(0) root
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(1) pelvis
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(2) spine_01
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(3) spine_02
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(4) spine_03
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(5) spine_04
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(6) spine_05
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(7) neck_01
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(8) neck_02
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(9) head
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(10) clavicle_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(11) upperarm_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(20) hand_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(21) middle_metacarpal_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(22) middle_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(23) middle_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(24) middle_03_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(25) pinky_metacarpal_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(26) pinky_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(27) pinky_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(28) pinky_03_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(29) ring_metacarpal_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(30) ring_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(31) ring_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(32) ring_03_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(33) thumb_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(34) thumb_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(35) thumb_03_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(36) index_metacarpal_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(37) index_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(38) index_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(39) index_03_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(40) wrist_inner_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(41) wrist_outer_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(42) weapon_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(56) clavicle_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(57) upperarm_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(66) hand_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(67) middle_metacarpal_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(68) middle_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(69) middle_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(70) middle_03_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(71) pinky_metacarpal_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(72) pinky_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(73) pinky_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(74) pinky_03_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(75) ring_metacarpal_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(76) ring_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(77) ring_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(78) ring_03_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(79) thumb_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(80) thumb_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(81) thumb_03_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(83) index_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(84) index_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(85) index_03_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(86) wrist_inner_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(87) wrist_outer_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(88) weapon_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(106) thigh_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(107) calf_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(108) foot_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(109) ball_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(110) ankle_bck_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.03.03-21.07.50:266][503]LogFbx: SortedLinks :(129) thigh_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(130) calf_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(131) foot_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(132) ball_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(159) interaction
+[2024.03.03-21.07.50:267][503]LogFbx: SortedLinks :(160) center_of_mass
+[2024.03.03-21.07.50:267][503]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.03-21.07.50:590][503]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:47) 
+Source Global Transform (-0.575667,-2.386078,136.367326|66.679627,132.929618,110.217610|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.454607,-0.243055,110.117856|63.792884,138.324504,111.515990|1.000000,1.000000,1.000000)
+[2024.03.03-21.07.50:597][503]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/HeadHit_UE.HeadHit_UE
+[2024.03.03-21.07.50:598][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:598][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_14:PersistentLevel.GreystonePlayerCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:599][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:600][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:600][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:605][503]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Animations/Quinn/HeadHit_UE.HeadHit_UE, at AnimationSequence/561038f51b93858f0253f80aefdc0c3caa8bb688
+[2024.03.03-21.07.50:606][503]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ spine_04  
+spine_05  
+neck_02  
+lowerarm_twist_02_l  
+lowerarm_correctiveRoot_l  
+lowerarm_in_l  
+lowerarm_out_l  
+lowerarm_fwd_l  
+lowerarm_bck_l  
+middle_metacarpal_l  
+pinky_metacarpal_l  
+ring_metacarpal_l  
+index_metacarpal_l  
+wrist_inner_l  
+wrist_outer_l  
+weapon_l  
+upperarm_twistCor_01_l  
+upperarm_twist_02_l  
+upperarm_tricep_l  
+upperarm_bicep_l  
+upperarm_twistCor_02_l  
+upperarm_correctiveRoot_l  
+upperarm_bck_l  
+upperarm_fwd_l  
+upperarm_in_l  
+upperarm_out_l  
+clavicle_out_l  
+clavicle_scap_l  
+lowerarm_twist_02_r  
+lowerarm_correctiveRoot_r  
+lowerarm_out_r  
+lowerarm_in_r  
+lowerarm_fwd_r  
+lowerarm_bck_r  
+middle_metacarpal_r  
+pinky_metacarpal_r  
+ring_metacarpal_r  
+index_metacarpal_r  
+wrist_inner_r  
+wrist_outer_r  
+weapon_r  
+upperarm_twistCor_01_r  
+upperarm_twist_02_r  
+upperarm_tricep_r  
+upperarm_bicep_r  
+upperarm_twistCor_02_r  
+upperarm_correctiveRoot_r  
+upperarm_bck_r  
+upperarm_in_r  
+upperarm_fwd_r  
+upperarm_out_r  
+clavicle_out_r  
+clavicle_scap_r  
+clavicle_pec_r  
+spine_04_latissimus_l  
+spine_04_latissimus_r  
+clavicle_pec_l  
+ankle_bck_r  
+ankle_fwd_r  
+calf_twist_02_r  
+calf_twistCor_02_r  
+calf_correctiveRoot_r  
+calf_kneeBack_r  
+calf_knee_r  
+thigh_twistCor_01_r  
+thigh_twist_02_r  
+thigh_twistCor_02_r  
+thigh_correctiveRoot_r  
+thigh_fwd_r  
+thigh_bck_r  
+thigh_out_r  
+thigh_in_r  
+thigh_bck_lwr_r  
+thigh_fwd_lwr_r  
+ankle_bck_l  
+ankle_fwd_l  
+calf_twist_02_l  
+calf_twistCor_02_l  
+calf_correctiveRoot_l  
+calf_kneeBack_l  
+calf_knee_l  
+thigh_twistCor_01_l  
+thigh_twist_02_l  
+thigh_twistCor_02_l  
+thigh_correctiveRoot_l  
+thigh_bck_l  
+thigh_fwd_l  
+thigh_out_l  
+thigh_bck_lwr_l  
+thigh_in_l  
+thigh_fwd_lwr_l  
+interaction  
+center_of_mass  
+ 
+[2024.03.03-21.07.50:606][503]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.03.03-21.07.50:608][503]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\HitToBody.UE.fbx)
+[2024.03.03-21.07.50:612][503]LogFbx: Loading FBX Scene from C:\Users\Owner\OneDrive\Desktop\mixamo_converter\mixamo_converter\OutgoingFbx\HitToBody.UE.fbx
+[2024.03.03-21.07.50:631][503]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(0) root
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(1) pelvis
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(2) spine_01
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(3) spine_02
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(4) spine_03
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(5) spine_04
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(6) spine_05
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(7) neck_01
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(8) neck_02
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(9) head
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(10) clavicle_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(11) upperarm_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(12) lowerarm_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(13) lowerarm_twist_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(14) lowerarm_twist_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(15) lowerarm_correctiveRoot_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(16) lowerarm_in_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(17) lowerarm_out_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(18) lowerarm_fwd_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(19) lowerarm_bck_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(20) hand_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(21) middle_metacarpal_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(22) middle_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(23) middle_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(24) middle_03_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(25) pinky_metacarpal_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(26) pinky_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(27) pinky_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(28) pinky_03_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(29) ring_metacarpal_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(30) ring_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(31) ring_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(32) ring_03_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(33) thumb_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(34) thumb_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(35) thumb_03_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(36) index_metacarpal_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(37) index_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(38) index_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(39) index_03_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(40) wrist_inner_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(41) wrist_outer_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(42) weapon_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(43) upperarm_twist_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(44) upperarm_twistCor_01_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(45) upperarm_twist_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(46) upperarm_tricep_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(47) upperarm_bicep_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(48) upperarm_twistCor_02_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(49) upperarm_correctiveRoot_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(50) upperarm_bck_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(51) upperarm_fwd_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(52) upperarm_in_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(53) upperarm_out_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(54) clavicle_out_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(55) clavicle_scap_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(56) clavicle_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(57) upperarm_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(58) lowerarm_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(59) lowerarm_twist_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(60) lowerarm_twist_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(61) lowerarm_correctiveRoot_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(62) lowerarm_out_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(63) lowerarm_in_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(64) lowerarm_fwd_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(65) lowerarm_bck_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(66) hand_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(67) middle_metacarpal_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(68) middle_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(69) middle_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(70) middle_03_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(71) pinky_metacarpal_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(72) pinky_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(73) pinky_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(74) pinky_03_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(75) ring_metacarpal_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(76) ring_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(77) ring_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(78) ring_03_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(79) thumb_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(80) thumb_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(81) thumb_03_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(82) index_metacarpal_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(83) index_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(84) index_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(85) index_03_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(86) wrist_inner_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(87) wrist_outer_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(88) weapon_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(89) upperarm_twist_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(90) upperarm_twistCor_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(91) upperarm_twist_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(92) upperarm_tricep_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(93) upperarm_bicep_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(94) upperarm_twistCor_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(95) upperarm_correctiveRoot_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(96) upperarm_bck_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(97) upperarm_in_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(98) upperarm_fwd_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(99) upperarm_out_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(100) clavicle_out_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(101) clavicle_scap_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(102) clavicle_pec_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(103) spine_04_latissimus_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(104) spine_04_latissimus_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(105) clavicle_pec_l
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(106) thigh_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(107) calf_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(108) foot_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(109) ball_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(110) ankle_bck_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(111) ankle_fwd_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(112) calf_twist_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(113) calf_twistCor_02_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(114) calf_twist_01_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(115) calf_correctiveRoot_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(116) calf_kneeBack_r
+[2024.03.03-21.07.50:632][503]LogFbx: SortedLinks :(117) calf_knee_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(118) thigh_twist_01_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(119) thigh_twistCor_01_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(120) thigh_twist_02_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(121) thigh_twistCor_02_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(122) thigh_correctiveRoot_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(123) thigh_fwd_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(124) thigh_bck_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(125) thigh_out_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(126) thigh_in_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(127) thigh_bck_lwr_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(128) thigh_fwd_lwr_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(129) thigh_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(130) calf_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(131) foot_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(132) ball_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(133) ankle_bck_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(134) ankle_fwd_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(135) calf_twist_02_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(136) calf_twistCor_02_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(137) calf_twist_01_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(138) calf_correctiveRoot_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(139) calf_kneeBack_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(140) calf_knee_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(141) thigh_twist_01_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(142) thigh_twistCor_01_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(143) thigh_twist_02_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(144) thigh_twistCor_02_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(145) thigh_correctiveRoot_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(146) thigh_bck_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(147) thigh_fwd_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(148) thigh_out_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(149) thigh_bck_lwr_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(150) thigh_in_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(151) thigh_fwd_lwr_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(152) ik_foot_root
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(153) ik_foot_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(154) ik_foot_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(155) ik_hand_root
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(156) ik_hand_gun
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(157) ik_hand_l
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(158) ik_hand_r
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(159) interaction
+[2024.03.03-21.07.50:633][503]LogFbx: SortedLinks :(160) center_of_mass
+[2024.03.03-21.07.50:633][503]LogFbx: Parsing AnimStack mixamo.com
+[2024.03.03-21.07.50:942][503]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (neck_01:47) 
+Source Global Transform (-0.575660,-2.386100,136.367325|66.679648,132.929608,110.217594|1.000000,1.000000,1.000000), 
+Converted Global Transform (-1.454602,-0.243067,110.117856|63.792934,138.324476,111.515952|1.000000,1.000000,1.000000)
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_75:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_4:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:950][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_14:PersistentLevel.GreystonePlayerCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:952][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:952][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.03-21.07.50:952][503]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.03-21.07.50:952][503]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_ThirdPersonCharacter_C_47.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.03-21.07.50:957][503]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset SK_Mannequin_Skeleton.  Any animation on these bones will not be imported: 
+
+ spine_04  
+spine_05  
+neck_02  
+lowerarm_twist_02_l  
+lowerarm_correctiveRoot_l  
+lowerarm_in_l  
+lowerarm_out_l  
+lowerarm_fwd_l  
+lowerarm_bck_l  
+middle_metacarpal_l  
+pinky_metacarpal_l  
+ring_metacarpal_l  
+index_metacarpal_l  
+wrist_inner_l  
+wrist_outer_l  
+weapon_l  
+upperarm_twistCor_01_l  
+upperarm_twist_02_l  
+upperarm_tricep_l  
+upperarm_bicep_l  
+upperarm_twistCor_02_l  
+upperarm_correctiveRoot_l  
+upperarm_bck_l  
+upperarm_fwd_l  
+upperarm_in_l  
+upperarm_out_l  
+clavicle_out_l  
+clavicle_scap_l  
+lowerarm_twist_02_r  
+lowerarm_correctiveRoot_r  
+lowerarm_out_r  
+lowerarm_in_r  
+lowerarm_fwd_r  
+lowerarm_bck_r  
+middle_metacarpal_r  
+pinky_metacarpal_r  
+ring_metacarpal_r  
+index_metacarpal_r  
+wrist_inner_r  
+wrist_outer_r  
+weapon_r  
+upperarm_twistCor_01_r  
+upperarm_twist_02_r  
+upperarm_tricep_r  
+upperarm_bicep_r  
+upperarm_twistCor_02_r  
+upperarm_correctiveRoot_r  
+upperarm_bck_r  
+upperarm_in_r  
+upperarm_fwd_r  
+upperarm_out_r  
+clavicle_out_r  
+clavicle_scap_r  
+clavicle_pec_r  
+spine_04_latissimus_l  
+spine_04_latissimus_r  
+clavicle_pec_l  
+ankle_bck_r  
+ankle_fwd_r  
+calf_twist_02_r  
+calf_twistCor_02_r  
+calf_correctiveRoot_r  
+calf_kneeBack_r  
+calf_knee_r  
+thigh_twistCor_01_r  
+thigh_twist_02_r  
+thigh_twistCor_02_r  
+thigh_correctiveRoot_r  
+thigh_fwd_r  
+thigh_bck_r  
+thigh_out_r  
+thigh_in_r  
+thigh_bck_lwr_r  
+thigh_fwd_lwr_r  
+ankle_bck_l  
+ankle_fwd_l  
+calf_twist_02_l  
+calf_twistCor_02_l  
+calf_correctiveRoot_l  
+calf_kneeBack_l  
+calf_knee_l  
+thigh_twistCor_01_l  
+thigh_twist_02_l  
+thigh_twistCor_02_l  
+thigh_correctiveRoot_l  
+thigh_bck_l  
+thigh_fwd_l  
+thigh_out_l  
+thigh_bck_lwr_l  
+thigh_in_l  
+thigh_fwd_lwr_l  
+interaction  
+center_of_mass  
+ 
+[2024.03.03-21.07.50:957][503]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.03.03-21.07.54:089][837]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-21.07.54:093][837]LogSlate: Window 'Message Log' being destroyed
+[2024.03.03-21.07.56:557][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.03-21.07.57:771][121]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-21.07.57:776][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.07.57:921][121]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/BigHitToHead_UE
+[2024.03.03-21.07.57:921][121]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE6DCCF75D4D15181DA2E9B7BA33126F5B.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Animations/Quinn/BigHitToHead_UE.uasset'
+[2024.03.03-21.07.57:945][121]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/BigRibHit_UE
+[2024.03.03-21.07.57:945][121]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigRibHit_UED4ED20C54DA1568F1B69C695B9752D0B.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Animations/Quinn/BigRibHit_UE.uasset'
+[2024.03.03-21.07.57:968][121]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/BigStomachHit_UE
+[2024.03.03-21.07.57:968][121]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigStomachHit_UEE9D3315D42C091EBB93E57992A477501.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Animations/Quinn/BigStomachHit_UE.uasset'
+[2024.03.03-21.07.57:989][121]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/HeadHit_UE
+[2024.03.03-21.07.57:989][121]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HeadHit_UE997A57A24B4D4DC440BF52BA6CFD7E92.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Animations/Quinn/HeadHit_UE.uasset'
+[2024.03.03-21.07.58:013][121]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/HitToBody_UE
+[2024.03.03-21.07.58:013][121]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HitToBody_UE523D29A34F51CFC6FD9587ACE0547211.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Animations/Quinn/HitToBody_UE.uasset'
+[2024.03.03-21.07.58:019][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 10.7 sec)
+[2024.03.03-21.07.58:020][121]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-21.07.58:020][121]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.07.58:020][121]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigRibHit_UE.BigRibHit_UE
+[2024.03.03-21.07.58:020][121]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/BigStomachHit_UE.BigStomachHit_UE
+[2024.03.03-21.07.58:020][121]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/HeadHit_UE.HeadHit_UE
+[2024.03.03-21.07.58:020][121]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Characters/Mannequins/Animations/Quinn/HitToBody_UE.HitToBody_UE
+[2024.03.03-21.08.15:487][138]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2024.03.03-21.08.19:384][602]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.08.47:916][765]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/HeadHit_UE.HeadHit_UE
+[2024.03.03-21.08.47:918][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.08.47:919][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.08.47:923][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.08.48:130][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.08.48:130][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.08.48:237][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.03-21.08.48:237][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.03-21.08.48:248][765]LogViewport: Scene viewport resized to 837x451, mode Windowed.
+[2024.03.03-21.08.48:264][765]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.08.51:540][998]LogSlate: Window 'HeadHit_UE' being destroyed
+[2024.03.03-21.08.51:544][998]LogSlate: Window 'HeadHit_UE' being destroyed
+[2024.03.03-21.08.51:592][998]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.08.51:592][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.08.51:600][998]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.08.51:600][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.08.51:646][998]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-21.08.51:646][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-21.09.32:215][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.03-21.09.32:278][751]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.10.00:420][101]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.03.03-21.10.15:997][946]LogContentBrowser: Attempting asset rename: BigRibHit_UE -> BigRibHit_UE
+[2024.03.03-21.10.27:576][309]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+[2024.03.03-21.10.27:606][312]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd, at AnimationSequence/0d7d9c9bce8db47d958a00d421cbfe7f46d51176
+[2024.03.03-21.10.55:511][718]LogSlate: Window 'Batch Export Retargeted Animations' being destroyed
+[2024.03.03-21.10.55:880][718]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.03.03-21.10.56:103][718]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.03.03-21.10.56:103][718]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.10.56:115][718]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE, at AnimationSequence/423d7523fc0394d46b09a3de9cc685a1c6c23280
+[2024.03.03-21.10.56:333][718]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.03.03-21.10.56:333][718]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE.BigRibHit_UE
+[2024.03.03-21.10.56:344][718]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE.BigRibHit_UE, at AnimationSequence/9faa166a0a5e5d1126437c67e56f52f1c03c116e
+[2024.03.03-21.10.56:562][718]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.03.03-21.10.56:562][718]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE.BigStomachHit_UE
+[2024.03.03-21.10.56:572][718]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE.BigStomachHit_UE, at AnimationSequence/160b35f368a96c10560a8bfe47106d15d9ccb68d
+[2024.03.03-21.10.56:790][718]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.03.03-21.10.56:791][718]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE.HeadHit_UE
+[2024.03.03-21.10.56:801][718]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE.HeadHit_UE, at AnimationSequence/18fb758da1dcb9cce861bb40aa1666e7286b42ff
+[2024.03.03-21.10.57:019][718]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE.HitToBody_UE
+[2024.03.03-21.10.57:019][718]LogTemp: Display: Duplicate and Retarget - New Asset Created: BigHitToHead_UE
+[2024.03.03-21.10.57:019][718]LogTemp: Display: Duplicate and Retarget - New Asset Created: BigRibHit_UE
+[2024.03.03-21.10.57:019][718]LogTemp: Display: Duplicate and Retarget - New Asset Created: BigStomachHit_UE
+[2024.03.03-21.10.57:019][718]LogTemp: Display: Duplicate and Retarget - New Asset Created: HeadHit_UE
+[2024.03.03-21.10.57:019][718]LogTemp: Display: Duplicate and Retarget - New Asset Created: HitToBody_UE
+[2024.03.03-21.10.57:027][718]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE.HitToBody_UE, at AnimationSequence/2e7cddd88fbaa86eeb94fcd85058247e9afa92ae
+[2024.03.03-21.11.01:158][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.03-21.11.02:511][142]LogSlate: Window 'Save Content' being destroyed
+[2024.03.03-21.11.02:516][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.03-21.11.02:682][142]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE
+[2024.03.03-21.11.02:682][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigHitToHead_UE4A1187B64A06BB7C6D38FBBE4D778882.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.uasset'
+[2024.03.03-21.11.02:724][142]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE
+[2024.03.03-21.11.02:724][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigRibHit_UE2A35153840EB0F1BDF107E857C6C4E7A.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE.uasset'
+[2024.03.03-21.11.02:772][142]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE
+[2024.03.03-21.11.02:772][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BigStomachHit_UE8756474149C6620CDF0D98AD85BA30BE.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE.uasset'
+[2024.03.03-21.11.02:822][142]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE
+[2024.03.03-21.11.02:822][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HeadHit_UE89124DBB4FFCF814CE4EB08A647B81C4.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE.uasset'
+[2024.03.03-21.11.02:864][142]LogSavePackage: Moving output files for package: /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE
+[2024.03.03-21.11.02:864][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/HitToBody_UE4AE8C44E4F5F8287E11EC4A13EB14538.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE.uasset'
+[2024.03.03-21.11.02:878][142]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Rigs/RTG_Mannequin
+[2024.03.03-21.11.02:879][142]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/RTG_MannequinAC368770486F60F0AC91668F5A6A971A.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uasset'
+[2024.03.03-21.11.02:886][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 369 ms (total: 11.1 sec)
+[2024.03.03-21.11.02:888][142]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigHitToHead_UE.BigHitToHead_UE
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigRibHit_UE.BigRibHit_UE
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/BigStomachHit_UE.BigStomachHit_UE
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HeadHit_UE.HeadHit_UE
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/Retargeted/HitToBody_UE.HitToBody_UE
+[2024.03.03-21.11.02:888][142]LogContentValidation: Display: Validating /Script/IKRig.IKRetargeter /Game/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin
