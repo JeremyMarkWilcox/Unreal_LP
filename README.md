@@ -16,5 +16,10 @@ Below is a program in which I created to test that the functions I was developin
 ## HitReact Blueprints
 This function controls when the player is hit that he reactions with certain animations.
 ![Screenshot 2024-03-07 122515](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/10fe177f-ef22-4cc8-a05b-5eaf87869117)
+
+## Death BluePrints
 ![Screenshot 2024-03-07 122439](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/431f42d5-5675-431e-8455-0041d0ba1071)
+
+## Hit Detect
+This BluePrint is triggered by a notification from the attack animations.
 ![Screenshot 2024-03-07 122231](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/d98c2a34-e61f-4971-b2ef-4c9e9a3cc372)
