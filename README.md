@@ -1,6 +1,8 @@
 # Unreal_LP
 
 During the Unreal Engine Live Project I learned how vast the game engine is and spent a lot of the time learning how to use the blue printing system. The capabilities of the game engine are incredible. Below are some of the blueprints I developed as I worked on the project.
+## Widgets
+Below are some of the blueprints that control when the menus/ widgets are displayed. One being a Health bar.
 ![Screenshot 2024-03-07 122723](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/6080be91-fd2a-4d2a-8320-8d818094edd6)
 ![Screenshot 2024-03-07 122644](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/97885166-6757-49e4-b862-d502e06e3a20)
 ![Screenshot 2024-03-07 122546](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/a097d3af-98fe-43e9-8260-6aedafd9bf3e)
