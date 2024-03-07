@@ -8747,3 +8747,88 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.07-16.28.46:713][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 6.25 sec)
 [2024.03.07-16.28.46:714][  1]AssetCheck: New page: Asset Save: Greystone_AnimBlueprint
 [2024.03.07-16.28.46:714][  1]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ParagonGreystone/Characters/Heroes/Greystone/Greystone_AnimBlueprint.Greystone_AnimBlueprint
+[2024.03.07-16.30.19:338][488]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [59 Seconds] waiting for h/w. InstanceID=1
+[2024.03.07-16.30.19:857][488]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3868
+[2024.03.07-16.30.20:199][490]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4cfa5fe2-48bc-41ec-9aec-d9fec9067043}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=73.35
+[2024.03.07-16.30.20:199][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.07-16.30.20:200][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 0 (Found bundle for host: 0x5cab9150750 [serially])
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 7 (Closing connection)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C4318F0-443E-138B-E608-1FA61E7F6A70%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4330e76344fd767abd0f08ad68e537fc%7C4eb9d71c1311441ca1ed42425aa12a11%7Ca962a17a-2e58-44b8-9fd7-ee59fc048442&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 12 (  Trying 44.194.122.99:443...)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (44.194.122.99) port 443)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 15 (SSL reusing session ID)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 22 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 23 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 24 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 25 (old SSL session ID is stale, removing)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 26 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 28 (Server certificate:)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 29 ( subject: CN=*.ol.epicgames.com)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 30 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 31 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 35 (using HTTP/1.1)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 37 (Closing connection)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: 000005CB654A8700: libcurl info message cache 38 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.07-16.30.24:531][504]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C4318F0-443E-138B-E608-1FA61E7F6A70%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4330e76344fd767abd0f08ad68e537fc%7C4eb9d71c1311441ca1ed42425aa12a11%7Ca962a17a-2e58-44b8-9fd7-ee59fc048442&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.07-16.33.02:846][939]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [17 Seconds] waiting for h/w. InstanceID=1
+[2024.03.07-16.33.03:837][939]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3868
+[2024.03.07-16.33.04:174][941]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4cfa5fe2-48bc-41ec-9aec-d9fec9067043}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=74.17
+[2024.03.07-16.33.04:174][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.07-16.33.04:175][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.07-17.22.19:044][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-17.22.19:048][380]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.22.19:048][380]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_25:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.22.21:069][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.07-17.22.21:069][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-17.22.21:069][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.07-17.22.21:146][609]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.22.21:146][609]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_26:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.24.31:072][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-17.24.31:142][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-17.24.31:148][129]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:148][129]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.24.31:289][129]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.07-17.24.31:290][129]LogSavePackage: Moving '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Saved/BP_ThirdPersonCharacterF18222F24F79FF0480EB65B6096D2838.tmp' to '../../../../../../Users/Owner/OneDrive/Desktop/Unreal_LP/Castle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.07-17.24.31:295][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 6.48 sec)
+[2024.03.07-17.24.31:297][129]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.07-17.24.31:297][129]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.07-17.24.31:508][152]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.07-17.24.31:568][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.07-17.24.31:574][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:574][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_25:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.07-17.24.31:575][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:575][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_26:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.07-17.24.31:576][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:576][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.07-17.24.31:577][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:577][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_25:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.24.31:613][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:613][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_26:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_27:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_1
+[2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_25:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.27.42:706][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
