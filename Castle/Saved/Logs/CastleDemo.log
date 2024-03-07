@@ -8832,3 +8832,267 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
 [2024.03.07-17.24.31:614][152]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Engine/Transient.World_25:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.Greystone_AnimBlueprint_C_0
 [2024.03.07-17.27.42:706][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.07-17.28.32:666][919]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:55.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 28617 files in 30531 folders with total size 4597 MiB.
+[2024.03.07-17.39.10:696][563]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.07-17.39.10:709][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.07-17.39.10:709][563]PIE: New page: PIE session: CastleDemo (Mar 7, 2024, 7:39:10 AM)
+[2024.03.07-17.39.10:750][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.07-17.39.10:769][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020149s)
+[2024.03.07-17.39.10:769][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.020179s)
+[2024.03.07-17.39.10:780][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.07-17.39.10:782][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-17.39.10:782][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.07-17.39.10:783][563]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.07-17.39.10:783][563]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2024.03.07-17.39.10:783][563]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.07-17.39.10:783][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.07-17.39.10:783][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.07-17.39.10:784][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.07-17.39.10:784][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.07-17.39.10:784][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.07-17.39.10:786][563]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.07-17.39.10:813][563]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.07-17.39.10:814][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.07-17.39.10:814][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.07-17.39.10:814][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.07-17.39.10:817][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.03.07-17.39.10:817][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.03.07-17.39.10:819][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.03.07-17.39.10:819][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.03.07-17.39.10:819][563]LogInit: FAudioDevice initialized with ID 36.
+[2024.03.07-17.39.10:819][563]LogAudio: Display: Audio Device (ID: 36) registered with world 'CastleDemo'.
+[2024.03.07-17.39.10:819][563]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.07-17.39.10:821][563]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.07-17.39.10:833][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.07-12.39.10
+[2024.03.07-17.39.10:834][563]LogWorld: Bringing up level for play took: 0.013082
+[2024.03.07-17.39.10:836][563]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.03.07-17.39.10:837][563]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.07-17.39.10:837][563]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.39.10:837][563]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.39.10:840][563]PIE: Server logged in
+[2024.03.07-17.39.10:840][563]PIE: Play in editor total start time 0.134 seconds.
+[2024.03.07-17.39.13:047][823]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.07-17.39.15:763][147]LogBlueprintUserMessages: [BP_EnemyAI_C_1] -40.0
+[2024.03.07-17.39.17:810][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.07-17.39.17:810][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.07-17.39.17:810][387]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.07-17.39.17:811][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.07-17.39.17:814][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.07-17.39.17:818][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.07-17.39.17:830][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.07-17.39.17:830][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.07-17.39.17:830][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.07-17.39.17:832][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.07-17.39.17:835][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.07-17.39.17:839][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.07-17.39.17:892][389]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.03.07-17.41.42:452][717]LogViewport: Scene viewport resized to 2742x645, mode Windowed.
+[2024.03.07-17.41.42:464][718]LogViewport: Scene viewport resized to 2742x661, mode Windowed.
+[2024.03.07-17.41.42:480][719]LogViewport: Scene viewport resized to 2742x691, mode Windowed.
+[2024.03.07-17.41.42:498][720]LogViewport: Scene viewport resized to 2742x740, mode Windowed.
+[2024.03.07-17.41.42:512][721]LogViewport: Scene viewport resized to 2742x803, mode Windowed.
+[2024.03.07-17.41.42:535][722]LogViewport: Scene viewport resized to 2742x899, mode Windowed.
+[2024.03.07-17.41.42:555][723]LogViewport: Scene viewport resized to 2742x964, mode Windowed.
+[2024.03.07-17.41.42:575][724]LogViewport: Scene viewport resized to 2742x1006, mode Windowed.
+[2024.03.07-17.41.42:596][725]LogViewport: Scene viewport resized to 2742x1048, mode Windowed.
+[2024.03.07-17.41.42:617][726]LogViewport: Scene viewport resized to 2742x1085, mode Windowed.
+[2024.03.07-17.41.42:637][727]LogViewport: Scene viewport resized to 2742x1101, mode Windowed.
+[2024.03.07-17.41.42:660][728]LogViewport: Scene viewport resized to 2742x1112, mode Windowed.
+[2024.03.07-17.41.42:682][729]LogViewport: Scene viewport resized to 2742x1121, mode Windowed.
+[2024.03.07-17.41.42:702][730]LogViewport: Scene viewport resized to 2742x1127, mode Windowed.
+[2024.03.07-17.41.42:724][731]LogViewport: Scene viewport resized to 2742x1133, mode Windowed.
+[2024.03.07-17.41.42:746][732]LogViewport: Scene viewport resized to 2742x1137, mode Windowed.
+[2024.03.07-17.41.42:828][740]LogViewport: Scene viewport resized to 2742x1136, mode Windowed.
+[2024.03.07-17.41.42:891][747]LogViewport: Scene viewport resized to 2742x1139, mode Windowed.
+[2024.03.07-17.41.42:902][748]LogViewport: Scene viewport resized to 2742x1143, mode Windowed.
+[2024.03.07-17.41.42:922][749]LogViewport: Scene viewport resized to 2742x1145, mode Windowed.
+[2024.03.07-17.41.42:944][750]LogViewport: Scene viewport resized to 2742x1147, mode Windowed.
+[2024.03.07-17.41.42:964][751]LogViewport: Scene viewport resized to 2742x1149, mode Windowed.
+[2024.03.07-17.41.43:551][820]LogViewport: Scene viewport resized to 2742x1153, mode Windowed.
+[2024.03.07-17.41.43:587][824]LogViewport: Scene viewport resized to 2742x1154, mode Windowed.
+[2024.03.07-17.41.43:601][825]LogViewport: Scene viewport resized to 2742x1158, mode Windowed.
+[2024.03.07-17.41.43:647][830]LogViewport: Scene viewport resized to 2742x1159, mode Windowed.
+[2024.03.07-17.41.43:661][831]LogViewport: Scene viewport resized to 2742x1164, mode Windowed.
+[2024.03.07-17.41.43:676][832]LogViewport: Scene viewport resized to 2742x1165, mode Windowed.
+[2024.03.07-17.41.43:703][833]LogViewport: Scene viewport resized to 2742x1168, mode Windowed.
+[2024.03.07-17.41.43:724][834]LogViewport: Scene viewport resized to 2742x1173, mode Windowed.
+[2024.03.07-17.41.43:739][835]LogViewport: Scene viewport resized to 2742x1175, mode Windowed.
+[2024.03.07-17.41.43:764][836]LogViewport: Scene viewport resized to 2742x1179, mode Windowed.
+[2024.03.07-17.41.43:778][837]LogViewport: Scene viewport resized to 2742x1182, mode Windowed.
+[2024.03.07-17.41.43:800][838]LogViewport: Scene viewport resized to 2742x1187, mode Windowed.
+[2024.03.07-17.41.43:821][839]LogViewport: Scene viewport resized to 2742x1190, mode Windowed.
+[2024.03.07-17.41.43:846][840]LogViewport: Scene viewport resized to 2742x1194, mode Windowed.
+[2024.03.07-17.41.43:867][841]LogViewport: Scene viewport resized to 2742x1199, mode Windowed.
+[2024.03.07-17.41.43:892][842]LogViewport: Scene viewport resized to 2742x1202, mode Windowed.
+[2024.03.07-17.41.43:932][845]LogViewport: Scene viewport resized to 2742x1204, mode Windowed.
+[2024.03.07-17.41.43:948][846]LogViewport: Scene viewport resized to 2742x1205, mode Windowed.
+[2024.03.07-17.41.43:974][848]LogViewport: Scene viewport resized to 2742x1206, mode Windowed.
+[2024.03.07-17.41.43:993][849]LogViewport: Scene viewport resized to 2742x1209, mode Windowed.
+[2024.03.07-17.41.44:071][858]LogViewport: Scene viewport resized to 2742x1212, mode Windowed.
+[2024.03.07-17.41.44:082][859]LogViewport: Scene viewport resized to 2742x1215, mode Windowed.
+[2024.03.07-17.41.44:804][944]LogViewport: Scene viewport resized to 2742x1217, mode Windowed.
+[2024.03.07-17.41.44:814][945]LogViewport: Scene viewport resized to 2742x1220, mode Windowed.
+[2024.03.07-17.41.44:836][946]LogViewport: Scene viewport resized to 2742x1224, mode Windowed.
+[2024.03.07-17.41.44:856][947]LogViewport: Scene viewport resized to 2742x1227, mode Windowed.
+[2024.03.07-17.41.44:878][948]LogViewport: Scene viewport resized to 2742x1231, mode Windowed.
+[2024.03.07-17.41.44:898][949]LogViewport: Scene viewport resized to 2742x1235, mode Windowed.
+[2024.03.07-17.41.44:923][950]LogViewport: Scene viewport resized to 2742x1238, mode Windowed.
+[2024.03.07-17.41.44:945][951]LogViewport: Scene viewport resized to 2742x1241, mode Windowed.
+[2024.03.07-17.41.44:975][952]LogViewport: Scene viewport resized to 2742x1245, mode Windowed.
+[2024.03.07-17.41.44:996][953]LogViewport: Scene viewport resized to 2742x1247, mode Windowed.
+[2024.03.07-17.41.52:765][873]LogViewport: Scene viewport resized to 2741x1247, mode Windowed.
+[2024.03.07-17.41.52:778][874]LogViewport: Scene viewport resized to 2753x1247, mode Windowed.
+[2024.03.07-17.41.52:791][875]LogViewport: Scene viewport resized to 2771x1247, mode Windowed.
+[2024.03.07-17.41.52:815][876]LogViewport: Scene viewport resized to 2811x1247, mode Windowed.
+[2024.03.07-17.41.52:840][877]LogViewport: Scene viewport resized to 2876x1247, mode Windowed.
+[2024.03.07-17.41.52:868][878]LogViewport: Scene viewport resized to 2969x1247, mode Windowed.
+[2024.03.07-17.41.52:893][879]LogViewport: Scene viewport resized to 3058x1247, mode Windowed.
+[2024.03.07-17.41.52:917][880]LogViewport: Scene viewport resized to 3137x1247, mode Windowed.
+[2024.03.07-17.41.52:942][881]LogViewport: Scene viewport resized to 3216x1247, mode Windowed.
+[2024.03.07-17.41.52:967][882]LogViewport: Scene viewport resized to 3285x1247, mode Windowed.
+[2024.03.07-17.41.52:992][883]LogViewport: Scene viewport resized to 3331x1247, mode Windowed.
+[2024.03.07-17.41.53:022][884]LogViewport: Scene viewport resized to 3371x1247, mode Windowed.
+[2024.03.07-17.41.53:049][885]LogViewport: Scene viewport resized to 3397x1247, mode Windowed.
+[2024.03.07-17.41.53:073][886]LogViewport: Scene viewport resized to 3427x1247, mode Windowed.
+[2024.03.07-17.42.06:363][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.07-17.42.06:373][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.07-17.42.06:373][473]PIE: New page: PIE session: CastleDemo (Mar 7, 2024, 7:42:06 AM)
+[2024.03.07-17.42.06:399][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.07-17.42.06:416][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017253s)
+[2024.03.07-17.42.06:416][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CastleDemo.CastleDemo to /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo (0.017278s)
+[2024.03.07-17.42.06:427][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.07-17.42.06:429][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.07-17.42.06:429][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.07-17.42.06:429][473]LogAIModule: Creating AISystem for world CastleDemo
+[2024.03.07-17.42.06:429][473]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2024.03.07-17.42.06:429][473]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.03.07-17.42.06:429][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.07-17.42.06:429][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.07-17.42.06:429][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.07-17.42.06:429][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.07-17.42.06:429][473]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.07-17.42.06:430][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.07-17.42.06:430][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.07-17.42.06:430][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.07-17.42.06:430][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.07-17.42.06:430][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.07-17.42.06:430][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.07-17.42.06:432][473]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.07-17.42.06:456][473]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.07-17.42.06:456][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.07-17.42.06:456][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.07-17.42.06:456][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.07-17.42.06:456][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.03.07-17.42.06:456][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.03.07-17.42.06:457][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.03.07-17.42.06:457][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.03.07-17.42.06:457][473]LogInit: FAudioDevice initialized with ID 37.
+[2024.03.07-17.42.06:457][473]LogAudio: Display: Audio Device (ID: 37) registered with world 'CastleDemo'.
+[2024.03.07-17.42.06:457][473]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.03.07-17.42.06:460][473]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.07-17.42.06:469][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo up for play (max tick rate 0) at 2024.03.07-12.42.06
+[2024.03.07-17.42.06:470][473]LogWorld: Bringing up level for play took: 0.009518
+[2024.03.07-17.42.06:472][473]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.03.07-17.42.06:472][473]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2024.03.07-17.42.06:472][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.03.07-17.42.06:472][473]LogScript: Warning: Script Msg called by: Greystone_AnimBlueprint_C /Game/Maps/UEDPIE_0_CastleDemo.CastleDemo:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Greystone_AnimBlueprint_C_0
+[2024.03.07-17.42.06:474][473]PIE: Server logged in
+[2024.03.07-17.42.06:474][473]PIE: Play in editor total start time 0.101 seconds.
+[2024.03.07-17.42.08:715][740]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGreystone/Characters/Heroes/Greystone/Animations/LevelStart_Montage.LevelStart_Montage'
+[2024.03.07-17.42.11:557][ 81]LogBlueprintUserMessages: [BP_EnemyAI_C_1] -40.0
+[2024.03.07-17.42.14:349][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.07-17.42.14:349][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CastleDemo
+[2024.03.07-17.42.14:349][412]LogWorld: UWorld::CleanupWorld for CastleDemo, bSessionEnded=true, bCleanupResources=true
+[2024.03.07-17.42.14:351][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.07-17.42.14:354][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.07-17.42.14:359][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.07-17.42.14:370][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.07-17.42.14:371][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.03.07-17.42.14:371][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.03.07-17.42.14:372][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.03.07-17.42.14:376][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.07-17.42.14:380][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.07-17.42.14:428][413]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.03.07-17.48.37:082][120]LogViewport: Scene viewport resized to 3427x1240, mode Windowed.
+[2024.03.07-17.48.37:095][121]LogViewport: Scene viewport resized to 3427x1224, mode Windowed.
+[2024.03.07-17.48.37:118][122]LogViewport: Scene viewport resized to 3427x1196, mode Windowed.
+[2024.03.07-17.48.37:145][123]LogViewport: Scene viewport resized to 3427x1148, mode Windowed.
+[2024.03.07-17.48.37:170][124]LogViewport: Scene viewport resized to 3427x1087, mode Windowed.
+[2024.03.07-17.48.37:194][125]LogViewport: Scene viewport resized to 3427x1012, mode Windowed.
+[2024.03.07-17.48.37:219][126]LogViewport: Scene viewport resized to 3427x867, mode Windowed.
+[2024.03.07-17.48.37:244][127]LogViewport: Scene viewport resized to 3427x783, mode Windowed.
+[2024.03.07-17.48.37:269][128]LogViewport: Scene viewport resized to 3427x722, mode Windowed.
+[2024.03.07-17.48.37:293][129]LogViewport: Scene viewport resized to 3427x681, mode Windowed.
+[2024.03.07-17.48.37:320][130]LogViewport: Scene viewport resized to 3427x659, mode Windowed.
+[2024.03.07-17.48.37:342][131]LogViewport: Scene viewport resized to 3427x651, mode Windowed.
+[2024.03.07-17.48.37:361][132]LogViewport: Scene viewport resized to 3427x650, mode Windowed.
+[2024.03.07-17.48.37:716][173]LogViewport: Scene viewport resized to 3427x655, mode Windowed.
+[2024.03.07-17.48.37:729][174]LogViewport: Scene viewport resized to 3427x666, mode Windowed.
+[2024.03.07-17.48.37:746][175]LogViewport: Scene viewport resized to 3427x675, mode Windowed.
+[2024.03.07-17.48.37:762][176]LogViewport: Scene viewport resized to 3427x685, mode Windowed.
+[2024.03.07-17.48.37:779][177]LogViewport: Scene viewport resized to 3427x694, mode Windowed.
+[2024.03.07-17.48.37:795][178]LogViewport: Scene viewport resized to 3427x700, mode Windowed.
+[2024.03.07-17.48.37:810][179]LogViewport: Scene viewport resized to 3427x706, mode Windowed.
+[2024.03.07-17.48.37:826][180]LogViewport: Scene viewport resized to 3427x711, mode Windowed.
+[2024.03.07-17.48.37:843][181]LogViewport: Scene viewport resized to 3427x717, mode Windowed.
+[2024.03.07-17.48.37:859][182]LogViewport: Scene viewport resized to 3427x725, mode Windowed.
+[2024.03.07-17.48.37:875][183]LogViewport: Scene viewport resized to 3427x733, mode Windowed.
+[2024.03.07-17.48.37:890][184]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.03.07-17.48.37:891][184]LogViewport: Scene viewport resized to 3427x738, mode Windowed.
+[2024.03.07-17.48.37:908][185]LogViewport: Scene viewport resized to 3427x740, mode Windowed.
+[2024.03.07-17.48.37:925][186]LogViewport: Scene viewport resized to 3427x745, mode Windowed.
+[2024.03.07-17.48.37:940][187]LogViewport: Scene viewport resized to 3427x747, mode Windowed.
+[2024.03.07-17.48.40:794][527]LogViewport: Scene viewport resized to 3423x747, mode Windowed.
+[2024.03.07-17.48.40:806][528]LogViewport: Scene viewport resized to 3413x747, mode Windowed.
+[2024.03.07-17.48.40:827][529]LogViewport: Scene viewport resized to 3392x747, mode Windowed.
+[2024.03.07-17.48.40:848][530]LogViewport: Scene viewport resized to 3356x747, mode Windowed.
+[2024.03.07-17.48.40:870][531]LogViewport: Scene viewport resized to 3310x747, mode Windowed.
+[2024.03.07-17.48.40:891][532]LogViewport: Scene viewport resized to 3267x747, mode Windowed.
+[2024.03.07-17.48.40:912][533]LogViewport: Scene viewport resized to 3206x747, mode Windowed.
+[2024.03.07-17.48.40:933][534]LogViewport: Scene viewport resized to 3157x747, mode Windowed.
+[2024.03.07-17.48.40:954][535]LogViewport: Scene viewport resized to 3111x747, mode Windowed.
+[2024.03.07-17.48.40:974][536]LogViewport: Scene viewport resized to 3062x747, mode Windowed.
+[2024.03.07-17.48.40:996][537]LogViewport: Scene viewport resized to 3027x747, mode Windowed.
+[2024.03.07-17.48.41:016][538]LogViewport: Scene viewport resized to 3002x747, mode Windowed.
+[2024.03.07-17.48.41:036][539]LogViewport: Scene viewport resized to 2986x747, mode Windowed.
+[2024.03.07-17.48.41:056][540]LogViewport: Scene viewport resized to 2970x747, mode Windowed.
+[2024.03.07-17.48.41:076][541]LogViewport: Scene viewport resized to 2962x747, mode Windowed.
+[2024.03.07-17.48.41:097][542]LogViewport: Scene viewport resized to 2957x747, mode Windowed.
+[2024.03.07-17.48.41:116][543]LogViewport: Scene viewport resized to 2954x747, mode Windowed.
+[2024.03.07-17.48.41:135][544]LogViewport: Scene viewport resized to 2951x747, mode Windowed.
+[2024.03.07-17.48.41:188][549]LogViewport: Scene viewport resized to 2948x747, mode Windowed.
+[2024.03.07-17.48.41:202][550]LogViewport: Scene viewport resized to 2944x747, mode Windowed.
+[2024.03.07-17.48.41:222][551]LogViewport: Scene viewport resized to 2933x747, mode Windowed.
+[2024.03.07-17.48.41:240][552]LogViewport: Scene viewport resized to 2921x747, mode Windowed.
+[2024.03.07-17.48.41:260][553]LogViewport: Scene viewport resized to 2906x747, mode Windowed.
+[2024.03.07-17.48.41:280][554]LogViewport: Scene viewport resized to 2891x747, mode Windowed.
+[2024.03.07-17.48.41:300][555]LogViewport: Scene viewport resized to 2869x747, mode Windowed.
+[2024.03.07-17.48.41:320][556]LogViewport: Scene viewport resized to 2852x747, mode Windowed.
+[2024.03.07-17.48.41:339][557]LogViewport: Scene viewport resized to 2836x747, mode Windowed.
+[2024.03.07-17.48.41:359][558]LogViewport: Scene viewport resized to 2820x747, mode Windowed.
+[2024.03.07-17.48.41:379][559]LogViewport: Scene viewport resized to 2806x747, mode Windowed.
+[2024.03.07-17.48.41:400][560]LogViewport: Scene viewport resized to 2794x747, mode Windowed.
+[2024.03.07-17.48.41:419][561]LogViewport: Scene viewport resized to 2786x747, mode Windowed.
+[2024.03.07-17.48.41:439][562]LogViewport: Scene viewport resized to 2772x747, mode Windowed.
+[2024.03.07-17.48.41:458][563]LogViewport: Scene viewport resized to 2755x747, mode Windowed.
+[2024.03.07-17.48.41:477][564]LogViewport: Scene viewport resized to 2739x747, mode Windowed.
+[2024.03.07-17.48.41:499][565]LogViewport: Scene viewport resized to 2733x747, mode Windowed.
+[2024.03.07-17.48.41:518][566]LogViewport: Scene viewport resized to 2730x747, mode Windowed.
+[2024.03.07-17.48.41:730][590]LogViewport: Scene viewport resized to 2735x747, mode Windowed.
+[2024.03.07-17.48.41:744][591]LogViewport: Scene viewport resized to 2741x747, mode Windowed.
+[2024.03.07-17.48.41:762][592]LogViewport: Scene viewport resized to 2746x747, mode Windowed.
+[2024.03.07-17.48.41:799][595]LogViewport: Scene viewport resized to 2748x747, mode Windowed.
+[2024.03.07-17.48.41:812][596]LogViewport: Scene viewport resized to 2749x747, mode Windowed.
+[2024.03.07-17.48.41:827][597]LogViewport: Scene viewport resized to 2751x747, mode Windowed.
+[2024.03.07-17.48.41:895][604]LogViewport: Scene viewport resized to 2752x747, mode Windowed.
+[2024.03.07-17.48.41:908][605]LogViewport: Scene viewport resized to 2754x747, mode Windowed.
+[2024.03.07-17.48.41:920][606]LogViewport: Scene viewport resized to 2759x747, mode Windowed.
+[2024.03.07-17.48.41:941][607]LogViewport: Scene viewport resized to 2761x747, mode Windowed.
+[2024.03.07-17.48.42:053][619]LogViewport: Scene viewport resized to 2762x747, mode Windowed.
+[2024.03.07-17.48.59:914][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
