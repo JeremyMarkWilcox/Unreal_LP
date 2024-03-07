@@ -23,3 +23,6 @@ This function controls when the player is hit that he reactions with certain ani
 ## Hit Detect
 This BluePrint is triggered by a notification from the attack animations.
 ![Screenshot 2024-03-07 122231](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/d98c2a34-e61f-4971-b2ef-4c9e9a3cc372)
+
+## Game Clip
+![Untitled video (8)](https://github.com/JeremyMarkWilcox/Unreal_LP_Code_Summary/assets/150622088/aa7dd893-6d0d-4228-8dfa-d37b2ed1b007)
